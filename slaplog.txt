@@ -1,0 +1,2498 @@
+--- Day changed Thu Dec 12 2013
+--- Day changed Fri Dec 13 2013
+--- Day changed Sat Dec 14 2013
+--- Day changed Sun Dec 15 2013
+--- Day changed Mon Dec 16 2013
+--- Day changed Tue Dec 17 2013
+--- Day changed Wed Dec 18 2013
+--- Day changed Thu Dec 19 2013
+--- Day changed Fri Dec 20 2013
+--- Day changed Sat Dec 21 2013
+--- Day changed Sun Dec 22 2013
+--- Day changed Mon Dec 23 2013
+--- Day changed Tue Dec 24 2013
+--- Day changed Wed Dec 25 2013
+--- Day changed Thu Dec 26 2013
+--- Day changed Fri Dec 27 2013
+--- Day changed Sat Dec 28 2013
+--- Day changed Sun Dec 29 2013
+--- Day changed Mon Dec 30 2013
+--- Day changed Tue Dec 31 2013
+--- Day changed Wed Jan 01 2014
+--- Day changed Thu Jan 02 2014
+--- Day changed Fri Jan 03 2014
+--- Day changed Sat Jan 04 2014
+--- Day changed Sun Jan 05 2014
+--- Day changed Mon Jan 06 2014
+--- Day changed Tue Jan 07 2014
+--- Day changed Wed Jan 08 2014
+--- Day changed Thu Jan 09 2014
+--- Day changed Fri Jan 10 2014
+--- Day changed Sat Jan 11 2014
+--- Day changed Sun Jan 12 2014
+--- Day changed Mon Jan 13 2014
+--- Day changed Tue Jan 14 2014
+--- Day changed Wed Jan 15 2014
+--- Day changed Thu Jan 16 2014
+--- Day changed Fri Jan 17 2014
+--- Day changed Sat Jan 18 2014
+--- Day changed Sun Jan 19 2014
+--- Day changed Mon Jan 20 2014
+--- Day changed Tue Jan 21 2014
+--- Day changed Wed Jan 22 2014
+--- Day changed Thu Jan 23 2014
+--- Day changed Fri Jan 24 2014
+--- Day changed Sat Jan 25 2014
+--- Day changed Sun Jan 26 2014
+--- Day changed Mon Jan 27 2014
+--- Day changed Tue Jan 28 2014
+--- Day changed Wed Jan 29 2014
+--- Day changed Thu Jan 30 2014
+--- Day changed Fri Jan 31 2014
+--- Day changed Sat Feb 01 2014
+--- Day changed Sun Feb 02 2014
+--- Day changed Mon Feb 03 2014
+--- Day changed Tue Feb 04 2014
+--- Day changed Wed Feb 05 2014
+--- Day changed Thu Feb 06 2014
+--- Day changed Fri Feb 07 2014
+--- Day changed Sat Feb 08 2014
+--- Day changed Sun Feb 09 2014
+--- Day changed Mon Feb 10 2014
+--- Day changed Tue Feb 11 2014
+--- Day changed Wed Feb 12 2014
+--- Day changed Thu Feb 13 2014
+--- Day changed Fri Feb 14 2014
+--- Day changed Sat Feb 15 2014
+--- Day changed Sun Feb 16 2014
+--- Day changed Mon Feb 17 2014
+--- Day changed Tue Feb 18 2014
+--- Day changed Wed Feb 19 2014
+--- Day changed Thu Feb 20 2014
+--- Day changed Fri Feb 21 2014
+--- Day changed Sat Feb 22 2014
+--- Day changed Sun Feb 23 2014
+--- Day changed Mon Feb 24 2014
+--- Day changed Tue Feb 25 2014
+--- Day changed Wed Feb 26 2014
+--- Day changed Thu Feb 27 2014
+--- Day changed Fri Feb 28 2014
+--- Day changed Sat Mar 01 2014
+--- Day changed Sun Mar 02 2014
+--- Day changed Mon Mar 03 2014
+--- Day changed Tue Mar 04 2014
+--- Day changed Wed Mar 05 2014
+--- Day changed Thu Mar 06 2014
+--- Day changed Fri Mar 07 2014
+--- Day changed Sat Mar 08 2014
+--- Day changed Sun Mar 09 2014
+--- Day changed Mon Mar 10 2014
+--- Day changed Tue Mar 11 2014
+--- Day changed Wed Mar 12 2014
+--- Day changed Thu Mar 13 2014
+--- Day changed Fri Mar 14 2014
+--- Day changed Sat Mar 15 2014
+--- Day changed Sun Mar 16 2014
+--- Day changed Mon Mar 17 2014
+--- Day changed Tue Mar 18 2014
+--- Day changed Wed Mar 19 2014
+--- Day changed Thu Mar 20 2014
+--- Day changed Fri Mar 21 2014
+--- Day changed Sat Mar 22 2014
+--- Day changed Sun Mar 23 2014
+--- Day changed Mon Mar 24 2014
+--- Day changed Tue Mar 25 2014
+--- Day changed Wed Mar 26 2014
+--- Day changed Thu Mar 27 2014
+--- Day changed Fri Mar 28 2014
+--- Day changed Sat Mar 29 2014
+--- Day changed Sun Mar 30 2014
+--- Day changed Mon Mar 31 2014
+--- Day changed Tue Apr 01 2014
+--- Day changed Wed Apr 02 2014
+--- Day changed Thu Apr 03 2014
+--- Day changed Fri Apr 04 2014
+--- Day changed Sat Apr 05 2014
+--- Day changed Sun Apr 06 2014
+--- Day changed Mon Apr 07 2014
+--- Day changed Tue Apr 08 2014
+--- Day changed Wed Apr 09 2014
+--- Day changed Thu Apr 10 2014
+--- Day changed Fri Apr 11 2014
+--- Day changed Sun Apr 13 2014
+--- Day changed Mon Apr 14 2014
+--- Day changed Tue Apr 15 2014
+--- Day changed Wed Apr 16 2014
+--- Day changed Thu Apr 17 2014
+--- Day changed Fri Apr 18 2014
+--- Day changed Sat Apr 19 2014
+--- Day changed Sun Apr 20 2014
+--- Day changed Mon Apr 21 2014
+--- Day changed Tue Apr 22 2014
+--- Day changed Wed Apr 23 2014
+--- Day changed Thu Apr 24 2014
+--- Day changed Fri Apr 25 2014
+--- Day changed Sat Apr 26 2014
+--- Day changed Sun Apr 27 2014
+--- Day changed Mon Apr 28 2014
+--- Day changed Tue Apr 29 2014
+--- Day changed Wed Apr 30 2014
+--- Day changed Thu May 01 2014
+--- Day changed Sat May 03 2014
+--- Day changed Sun May 04 2014
+--- Day changed Mon May 05 2014
+--- Day changed Tue May 06 2014
+--- Day changed Wed May 07 2014
+--- Day changed Thu May 08 2014
+--- Day changed Fri May 09 2014
+--- Day changed Sat May 10 2014
+--- Day changed Sun May 11 2014
+--- Day changed Mon May 12 2014
+--- Day changed Tue May 13 2014
+--- Day changed Wed May 14 2014
+--- Day changed Thu May 15 2014
+--- Day changed Fri May 16 2014
+--- Day changed Sat May 17 2014
+--- Day changed Sun May 18 2014
+--- Day changed Mon May 19 2014
+--- Day changed Tue May 20 2014
+--- Day changed Wed May 21 2014
+--- Day changed Thu May 22 2014
+--- Day changed Fri May 23 2014
+--- Day changed Sat May 24 2014
+--- Day changed Sun May 25 2014
+--- Day changed Mon May 26 2014
+--- Day changed Tue May 27 2014
+--- Day changed Wed May 28 2014
+--- Day changed Thu May 29 2014
+--- Day changed Fri May 30 2014
+--- Day changed Sat May 31 2014
+--- Day changed Sun Jun 01 2014
+--- Day changed Mon Jun 02 2014
+--- Day changed Tue Jun 03 2014
+--- Day changed Wed Jun 04 2014
+--- Day changed Thu Jun 05 2014
+--- Day changed Fri Jun 06 2014
+--- Day changed Sat Jun 07 2014
+--- Day changed Sun Jun 08 2014
+--- Day changed Mon Jun 09 2014
+--- Day changed Tue Jun 10 2014
+--- Day changed Wed Jun 11 2014
+--- Day changed Thu Jun 12 2014
+--- Day changed Fri Jun 13 2014
+--- Day changed Sat Jun 14 2014
+--- Day changed Sun Jun 15 2014
+--- Day changed Mon Jun 16 2014
+--- Day changed Tue Jun 17 2014
+--- Day changed Wed Jun 18 2014
+--- Day changed Thu Jun 19 2014
+--- Day changed Fri Jun 20 2014
+--- Day changed Sat Jun 21 2014
+--- Day changed Sun Jun 22 2014
+--- Day changed Mon Jun 23 2014
+--- Day changed Tue Jun 24 2014
+--- Day changed Wed Jun 25 2014
+--- Day changed Thu Jun 26 2014
+--- Day changed Fri Jun 27 2014
+--- Day changed Sat Jun 28 2014
+--- Day changed Sun Jun 29 2014
+--- Day changed Mon Jun 30 2014
+--- Day changed Tue Jul 01 2014
+--- Day changed Wed Jul 02 2014
+--- Day changed Thu Jul 03 2014
+--- Day changed Fri Jul 04 2014
+--- Day changed Sat Jul 05 2014
+--- Day changed Sun Jul 06 2014
+--- Day changed Mon Jul 07 2014
+--- Day changed Tue Jul 08 2014
+--- Day changed Wed Jul 09 2014
+--- Day changed Thu Jul 10 2014
+--- Day changed Fri Jul 11 2014
+--- Day changed Sat Jul 12 2014
+--- Day changed Sun Jul 13 2014
+--- Day changed Mon Jul 14 2014
+--- Day changed Tue Jul 15 2014
+--- Day changed Wed Jul 16 2014
+--- Day changed Thu Jul 17 2014
+--- Day changed Fri Jul 18 2014
+--- Day changed Sat Jul 19 2014
+--- Day changed Sun Jul 20 2014
+--- Day changed Mon Jul 21 2014
+--- Day changed Tue Jul 22 2014
+--- Day changed Wed Jul 23 2014
+--- Day changed Thu Jul 24 2014
+--- Day changed Fri Jul 25 2014
+--- Day changed Sat Jul 26 2014
+--- Day changed Sun Jul 27 2014
+--- Day changed Mon Jul 28 2014
+--- Day changed Tue Jul 29 2014
+--- Day changed Wed Jul 30 2014
+--- Day changed Thu Jul 31 2014
+--- Day changed Fri Aug 01 2014
+--- Day changed Sat Aug 02 2014
+--- Day changed Sun Aug 03 2014
+--- Day changed Mon Aug 04 2014
+--- Day changed Tue Aug 05 2014
+--- Day changed Wed Aug 06 2014
+--- Day changed Thu Aug 07 2014
+--- Day changed Fri Aug 08 2014
+--- Day changed Sat Aug 09 2014
+--- Day changed Sun Aug 10 2014
+--- Day changed Mon Aug 11 2014
+--- Day changed Tue Aug 12 2014
+--- Day changed Wed Aug 13 2014
+--- Day changed Thu Aug 14 2014
+--- Day changed Fri Aug 15 2014
+--- Day changed Sat Aug 16 2014
+--- Day changed Sun Aug 17 2014
+--- Day changed Mon Aug 18 2014
+--- Day changed Tue Aug 19 2014
+--- Day changed Wed Aug 20 2014
+--- Day changed Thu Aug 21 2014
+--- Day changed Fri Aug 22 2014
+--- Day changed Sat Aug 23 2014
+--- Day changed Sun Aug 24 2014
+--- Day changed Mon Aug 25 2014
+--- Day changed Tue Aug 26 2014
+--- Day changed Wed Aug 27 2014
+--- Day changed Thu Aug 28 2014
+--- Day changed Fri Aug 29 2014
+--- Day changed Sat Aug 30 2014
+--- Day changed Sun Aug 31 2014
+--- Day changed Mon Sep 01 2014
+--- Day changed Tue Sep 02 2014
+--- Day changed Wed Sep 03 2014
+--- Day changed Thu Sep 04 2014
+--- Day changed Fri Sep 05 2014
+--- Day changed Sat Sep 06 2014
+--- Day changed Sun Sep 07 2014
+--- Day changed Mon Sep 08 2014
+--- Day changed Tue Sep 09 2014
+--- Day changed Wed Sep 10 2014
+--- Day changed Thu Sep 11 2014
+--- Day changed Fri Sep 12 2014
+--- Day changed Sat Sep 13 2014
+--- Day changed Sun Sep 14 2014
+--- Day changed Mon Sep 15 2014
+--- Day changed Tue Sep 16 2014
+--- Day changed Wed Sep 17 2014
+--- Day changed Thu Sep 18 2014
+--- Day changed Fri Sep 19 2014
+--- Day changed Sat Sep 20 2014
+--- Day changed Sun Sep 21 2014
+--- Day changed Mon Sep 22 2014
+--- Day changed Mon Sep 22 2014
+22:14 < rachel> !superslapanus denice 
+--- Day changed Tue Sep 23 2014
+--- Day changed Wed Sep 24 2014
+--- Day changed Thu Sep 25 2014
+--- Day changed Fri Sep 26 2014
+--- Day changed Sat Sep 27 2014
+--- Day changed Sun Sep 28 2014
+--- Day changed Mon Sep 29 2014
+--- Day changed Tue Sep 30 2014
+--- Day changed Wed Oct 01 2014
+--- Day changed Thu Oct 02 2014
+--- Day changed Fri Oct 03 2014
+--- Day changed Sat Oct 04 2014
+--- Day changed Sun Oct 05 2014
+--- Day changed Mon Oct 06 2014
+--- Day changed Tue Oct 07 2014
+--- Day changed Wed Oct 08 2014
+--- Day changed Thu Oct 09 2014
+--- Day changed Fri Oct 10 2014
+--- Day changed Sat Oct 11 2014
+--- Day changed Sun Oct 12 2014
+--- Day changed Mon Oct 13 2014
+--- Day changed Tue Oct 14 2014
+--- Day changed Wed Oct 15 2014
+--- Day changed Thu Oct 16 2014
+--- Day changed Fri Oct 17 2014
+--- Day changed Sat Oct 18 2014
+--- Day changed Sun Oct 19 2014
+--- Day changed Mon Oct 20 2014
+--- Day changed Tue Oct 21 2014
+--- Day changed Wed Oct 22 2014
+--- Day changed Thu Oct 23 2014
+--- Day changed Fri Oct 24 2014
+--- Day changed Sat Oct 25 2014
+--- Day changed Sun Oct 26 2014
+--- Day changed Mon Oct 27 2014
+--- Day changed Tue Oct 28 2014
+--- Day changed Wed Oct 29 2014
+--- Day changed Thu Oct 30 2014
+--- Day changed Fri Oct 31 2014
+--- Day changed Sat Nov 01 2014
+--- Day changed Sun Nov 02 2014
+14:59 <@rachel> !superslapanus
+15:02 <@rachel> !superslapanus
+15:02 < dsockwell> !superslapanus
+15:02 < dsockwell> !superslapanus
+15:03 < dsockwell> !superslapanus
+15:03 < dsockwell> !superslapanus
+15:03 < dsockwell> !superslapanus
+15:03 < dsockwell> !superslapanus
+15:10 <@rachel> !superslapanus dsockwell 
+15:11 <@rachel> !superslapanus
+15:13 < dsockwell> !superslapanus Uncomfortable_ 
+15:13 <@rachel> !superslapanus
+15:13 < dsockwell> !superslapanus
+15:14 < dsockwell> !superslapanus
+15:14 <@rachel> !superslapanus
+15:15 < dsockwell> !superslapanus
+15:29 <@rachel> !superslapaniggasanus
+15:33 <@rachel> !supersuckurdick
+15:39 <@rachel> !supersuckurdick
+15:51 <@rachel> !superslapanusv2
+15:55 <@dsockwell> !superslapanus
+16:02 <@rachel> !supersuckurdick
+16:08 <@rachel> !supersuckurdick
+16:10 <@rachel> !supersuckurdick
+16:13 <@rachel> !superslapanus
+16:15 <@rachel> !supersuckurdick
+16:15 < fishy> !supersuckurdick
+16:26 <@rachel> !supersuckurdick
+16:32 <@rachel> !supersuckurdick
+16:35 < svchost> !supersuckurdick
+16:35 <%fishy> !supersuckurdick
+17:30 <@rachel> !supersuckurdick jakncoke 
+17:38 <@rachel> !superslapanusv2
+17:55 <@rachel> !supersuckaniggasdick
+17:55 <@rachel> !superslapaniggasanus
+18:19 <@rachel> !superslapanusv2
+18:19 < fishy> !superslapanusv2
+18:20 < atheistcat> !superslapaniggasanus 
+18:20 < Crionarx> !superslapanusv2
+18:22 <@rachel> !superslapaniggasanus
+18:30 < Crionarx> !superslapanusv2
+18:32 < Crionarx> !superslapanusv2
+18:33 <@rachel> !supersuckurdick
+18:41 <@rachel> !supersuckurdick
+18:53 < cccccppppp> !superslapanus
+18:53 < cccccppppp> !superslapanus
+20:56 <@rachel> !supersuckurdick
+20:57 <@dsockwell> !supersuckurdick
+21:10 <@rachel> !superslapanus fishy penis penis penis penis penis penis
+21:16 <@rachel> !supersuckurdick Kitten 
+22:39 <@rachel> !superslapanusv2 AtomicFiredoll 
+22:46 <@rachel> !superslapaniggasanus dbladez 
+23:22 <@rachel> !supersuckurdick
+23:23 < doge> !superslapanusv2 rachel 
+23:23 <@dsockwell> !superslapanus
+23:25 <@dsockwell> !superslapanus
+23:29 < doge> !superslapanusv2 rachel 
+23:30 < doge> !superslapanusv2 rachel 
+--- Day changed Mon Nov 03 2014
+08:35 <@rachel> !superslapanus
+09:13 <@svchost> !superslapanusv2
+09:31 <@rachel> !superslapaniggasanus
+10:11 <@rachel> !superslapanus
+11:09 <@rachel> !superslapanus dbladez 
+13:21 <@rachel> !superslapanus
+13:22 <@svchost> !superslapanusv2
+13:38 <@ceph> !superslapaniggasanus
+16:42 <@Weazzy> !superslapanus
+16:42 <@dsockwell> !superslapanus
+18:51 < tani> !superslapaniggasanus
+19:45 <@Weazzy> !superslapanus
+21:43 <@rachel> !superslapanusv2 DSOCKWELL
+--- Day changed Tue Nov 04 2014
+01:36 < tani> !superslapaniggasanus
+03:39 < tani> !superslapanus
+03:44 < what> !superslapanus
+03:46 < what> !superslapanus
+06:04 < what> !superslapanus
+06:42 < cccccppppp> !superslapanus
+08:26 < what_> !superslapanus
+08:32 < sunnid> !superslapanus
+09:16 < what_> !superslapanus
+09:46 < what_> !superslapanus
+10:22 < What> !superslapanus
+11:20 < What> !superslapanus
+11:49 <@Weazzy> !superslapanusv2
+11:56 < Not_an_NSA_spy> !superslapanus
+11:56 <@dsockwell> !superslapanus
+12:06 < Not_an_NSA_spy> !superslapanus
+12:38 < Not_an_NSA_spy> !superslapanus
+12:47 <@rachel> !superslapanusv2
+12:49 <@rachel> !superslapanusv2
+13:26 < kakama> !superslapanusv2
+13:33 < Not_an_NSA_spy> !superslapanus
+14:34 < doge> !superanusslapv2
+14:34 < doge> !superslapanusv2
+14:46 < what> !superslapanus 
+14:46 <@Weazzy> !superslapanus
+14:46 < amnizu> !superslapanus
+14:47 < tani> !superslapaniggasanus
+14:51 < tani> !superslapaniggasanus
+14:51 < tani> !superslapaniggasanus
+15:34 < tani> !superslapaniggasanus
+15:38 < what> !superslapanus 
+15:38 < amnizu> !superslapanus
+15:39 < doge> !superniggercuntmkii
+15:44 < what> !superslapanus 
+15:44 < what> !superslapanus 
+17:31 < tani> !superslapaniggasanus
+17:49 <@Weazzy> !superslapanusv2
+18:46 <@rachel> !superslapanus doge 
+18:49 <@rachel> !superslapanus
+18:49 <@rachel> !superslapanus
+18:49 <@rachel> !superslapanus
+18:49 <@rachel> !superslapanus
+18:49 <@rachel> !superslapanus
+18:49 <@rachel> !superslapanus
+18:49 <@rachel> !superslapanus
+18:49 <@rachel> !superslapanus
+18:49 <@rachel> !superslapanus
+18:49 <@rachel> !superslapanus
+18:49 <@rachel> !superslapanus
+18:49 <@rachel> !superslapanus
+18:49 <@rachel> !superslapanus
+18:49 <@rachel> !superslapanus
+18:49 <@rachel> !superslapanus
+18:49 <@rachel> !superslapanus
+18:49 <@rachel> !superslapanus
+18:49 <@rachel> !superslapanus
+18:49 <@rachel> !superslapanus
+18:49 <@rachel> !superslapanus
+18:49 <@rachel> !superslapanus
+18:49 <@rachel> !superslapanus
+18:49 <@rachel> !superslapanus
+18:49 <@rachel> !superslapanus
+18:49 <@rachel> !superslapanus
+18:49 <@rachel> !superslapanus
+18:49 <@rachel> !superslapanus
+18:49 <@rachel> !superslapanus
+18:49 <@rachel> !superslapanus
+18:49 <@rachel> !superslapanus
+18:49 <@rachel> !superslapanus
+18:49 <@rachel> !superslapanus
+18:49 <@rachel> !superslapanus
+18:49 <@rachel> !superslapanus
+18:49 <@rachel> !superslapanus
+18:49 <@rachel> !superslapanus
+18:49 <@rachel> !superslapanus
+18:49 <@rachel> !superslapanus
+18:49 <@rachel> !superslapanus
+18:49 <@rachel> !superslapanus
+18:49 <@rachel> !superslapanus
+18:49 <@rachel> !superslapanus
+18:49 <@rachel> !superslapanus
+18:49 <@rachel> !superslapanus
+18:49 <@rachel> !superslapanus
+18:49 <@rachel> !superslapanus
+18:49 <@rachel> !superslapanus
+18:49 <@rachel> !superslapanus
+18:49 <@rachel> !superslapanus
+18:49 <@rachel> !superslapanus
+18:49 <@rachel> !superslapanus
+18:49 <%fishy> !superslapanus
+20:08 <@Weazzy> !superslapanusv2
+20:25 <@Weazzy> !supersuckurdick
+20:29 <@rachel> !supersuckurdick
+20:31 <@rachel> !supersuckurdick
+20:31 <@rachel> !supersuckurdick
+20:35 <@rachel> !supersuckurdick
+20:45 <@rachel> !supersuckurdick
+20:49 <@rachel> !supersuckurdick Weazzy 
+20:54 <@rachel> !supersuckurdick
+20:56 <@rachel> !supersuckurdick
+20:58 <@rachel> 1!superslapanus
+20:58 <@rachel> !superslapanus
+21:21 <@rachel> !supersuckurdick
+21:21 <%fishy> !supersuckurdick
+21:23 <@rachel> !supersuckurdick commie 
+21:43 <@rachel> !supersuckurdick
+21:44 <@rachel> !supersuckurdick
+21:45 <@rachel> !supersuckurdick LOL
+21:51 <@rachel> !supersuckurdick dbladez 
+21:52 <@rachel> !supersuckurdick dbladez 
+21:52 <@rachel> !superduckurdick dbladez 
+21:52 <@rachel> !supersuckurdick dbladez 
+21:53 <@rachel> !supersuckurdick dbladez 
+21:54 <@rachel> !supersuckurdick dbladez 
+21:54 <@rachel> !supersuckurdick dbladez 
+21:54 <@rachel> !supersuckurdick amnizu 
+21:54 <@rachel> !supersuckurdick amnizu 
+21:55 <@rachel> !supersuckurdick amnizu 
+21:55 <@rachel> !supersuckurdick amnizu 
+21:57 <@rachel> !supersuckurdick amnizu 
+21:57 <%fishy> !supersuckurdick dick butts
+22:07 <@rachel> !supersuckurdick dsockwell 
+22:14 <@rachel> !supersuckurdick cccccppppp 
+22:18 <@rachel> !supersuckurdick jimmybudz 
+22:19 <@rachel> !supersuckurdick R0N1N 
+22:20 <@rachel> !supersuckurdick R0N1N 
+22:22 <@rachel> !supersuckurdick optic` 
+22:22 <@rachel> !superslapanus optic` 
+22:34 <@rachel> !superslapanus R0N1N 
+22:40 <@rachel> !superslapanusv2 jimmybudz 
+22:40 <%fishy> !superslapanusv2 jimmybudz dicks
+22:45 <@rachel> !superslapanus optic` 
+22:57 <@rachel> !superslapanus say 
+--- Day changed Wed Nov 05 2014
+02:43 < what> !superslapanus 
+03:02 < what> !superslapanus 
+04:59 < cccccppppp> .talk !superslapanus 
+05:00 < cccccppppp> !superslapanus 
+05:34 < clippy> !superslapanus
+06:03 < cccccppppp> !talk !superslapanus
+06:03 <%denice> .talk !superslapanus /quits 4 eva
+06:03 < cccccppppp> !talk !superslapanus
+06:03 <%denice> .talk !superslapanus client.select(2, ... the javascript I tried adding a semicolon after the string
+06:30 < what> !superslapanus 
+07:03 < what> !superslapanus
+07:06 < clippy> !superslapanus
+07:46 <@Weazzy> !superslapanusv2
+08:10 < what> !superslapanus
+08:34 <@Weazzy> !supersuckurdick
+08:56 <@Weazzy> !supersuckurdick
+09:04 <@Weazzy> !superslapanusv2
+09:07 < commieOnTopic> 	!superslapanusv2
+09:08 < commieOnTopic> !superslapanusv2
+09:21 <@Weazzy> !supersuckurdick
+09:38 <@Weazzy> !supersuckurdick
+10:04 < what> !superslapanus
+10:30 < what> !superslapanus
+11:11 < clippy> !superslapanus
+11:12 <@rachel> if you say !superslapanus clippy it has a 1/3 chance of kicking the person you asked
+11:32 < what_> !superslapanus
+11:53 < what_> !superslapanus
+12:03 < what_> !superslapanus
+12:27 < what_> !superslapanus
+12:44 < what_> !superslapanus
+12:55 < what_> !superslapanus
+13:06 <@rachel> !superslapanus tyral 
+13:34 < what_> !superslapanus
+14:13 <@rachel> !supersuckurdick bbbbb 
+14:15 <@rachel> !supersuckurdick bbbbb 
+14:15 <@rachel> !supersuckurdick bbbbb 
+14:19 < what_> !superslapanus
+15:03 < what_> !superslapanus
+15:13 <@Weazzy> !supersuckurdick FrobtheBuilder 
+15:46 < what_> !superslapanus
+15:58 <@rachel> !supersuckurdick kakama 
+16:35 <@rachel> !supersuckurdick Weazzy 
+17:37 <@rachel> !superslapanus commie1 
+17:43 <@rachel> !supersuckurdick commie1 
+17:44 < amnizu> !superslapanus fishy
+18:34 < what_> !superslapanus
+18:51 < dsockwell> !superslapanus TheRealDoge 
+18:55 < dsockwell> !superslapanus
+18:56 < dsockwell> !superslapanus
+19:34 < what_> !superslapanus
+20:08 < doge> !superslapanusv2
+20:09 < im`cisappointed`in`u> !superslapanus
+20:22 < dsockwell> !superslapanusv2
+21:23 < What> !superslapanus
+21:53 < What> !superslapanus
+22:00 <@rachel> !supersuckurdick tyral 
+22:19 < What> !superslapanus
+22:20 < rothen> !superslapanus
+22:36 < Weazzy> !supersuckurdick FrobtheBuilder 
+22:51 < What> !superslapanus
+23:03 < tani> !superslapanusv2
+23:04 <@rachel> !superslapanus fishy 
+23:04 <@rachel> !superslapanus fishy 
+23:04 < Weazzy> !superslapanus im`cisappointed`in`u 
+23:05 <@rachel> !superslapanus fishy 
+23:05 < tani> !superslapaniggasanus
+23:05 < tani> !superslapaniggasanus
+23:05 < tani> !superslapaniggasanus
+23:06 < tani> !superslapaniggasanus
+23:06 < tani> !!!!!!!!!!!!!!!!!!!superslapaniggasanus
+23:06 < Weazzy> !superslapanusv2 im`cisappointed`in`u 
+23:09 < tani> !superslapaniggasanus
+23:10 < tani> !superslapaniggasanus
+23:16 < What> !superslapanus
+23:16 < dsockwell> !supersqlanus
+23:17 < im`cisappointed`in`u> !superslapanus
+23:18 < What> !superslapanus
+23:20 < im`cisappointed`in`u> !superslapanus
+23:35 < What> !superslapanus
+23:55 < What> !superslapanus
+--- Day changed Thu Nov 06 2014
+00:20 < What> !superslapanus
+00:21 < Weazzy> !supersuckurdick
+00:42 < tani> !supersuckurdick
+00:43 < What> !superslapanus
+01:18 <@rachel> !superslapanus bbbbb 
+02:00 < what_> !superslapanus
+02:16 < tani> !superslapaniggasanus
+02:17 < cccccppppp> !superslapanus tani
+06:17 < what_> !superslapanus
+06:27 < what_> !superslapanus
+06:51 < what_> !superslapanus
+07:14 < what_> !superslapanus
+07:21 < what_> !superslapanus
+07:41 < what_> !superslapanus
+08:07 < what_> !superslapanus
+08:18 < what_> !superslapanus
+08:56 < what_> !superslapanus
+09:08 < what_> !superslapanus
+09:22 < dsockwell> !superslapanus
+10:18 < what_> !superslapanus
+10:35 < what_> !superslapanus
+10:50 < what_> !superslapanus
+10:59 < dsockwell> !superslapanus
+11:14 < what_> !superslapanus
+11:34 < what_> !superslapanus
+11:41 < what_> !superslapanus
+14:15 <@rachel> !supersuckurdick im`cisappointed`in`u 
+15:54 < Weazzy> !superslapanus
+16:09 < dsockwell> !superslapanus
+16:17 < Weazzy> !supersuckurdick
+16:23 < dsockwell> !superslapanusv2 doge
+16:42 < Weazzy> !superslapanusv2
+17:45 < Weazzy> !supersuckurdick dsockwell 
+18:09 < Weazzy> !superslapanusv2
+19:01 < Weazzy> !supersuckurdick clippy 
+19:01 < im`cisappointed`in`u> !superslapanus
+19:04 < im`cisappointed`in`u> !superslapanus
+19:12 < im`cisappointed`in`u> !superslapanus
+20:54 <@rachel> !superslapanusv2 Weazzy 
+21:06 <@rachel> !supersuckurdick Weazzy 
+21:31 < amnizu> !superslapanus
+22:27 < tani> !superslapaniggasanus
+22:36 < amnizu> !superslapanus
+22:37 < amnizu> !superslapanus
+22:37 < amnizu> !superslapanus
+23:36 < amnizu> !superslapanus
+23:36 < amnizu> !superslapanus
+23:36 < FrobtheBuilder> !superslapanusv2
+23:39 < amnizu> !superslapanusv2
+23:54 < dsockwell> !superslapanusv2
+--- Day changed Fri Nov 07 2014
+00:05 < dsockwell> !superslapanus
+00:26 < Weazzy> !superslapanus FrobtheBuilder 
+02:18 <@rachel> !supersuckurdick esquesque 
+02:22 <@rachel> !supersuckurdick svchost 
+03:29 < what> !superslapanus
+06:36 < sunnid> !superslapanus
+11:14 < tani> !superslapaniggasanus
+11:34 < dsockwell> !superslapanus dsockwell
+11:34 <%fishy> !superslapanus butt
+11:52 < Weazzy> !supersuckurdick
+14:26 < Weazzy> !superslapanus jakncoke 
+16:20 < Weazzy> !superslapanus Rossthefox 
+16:25 < Weazzy> !superslapanus Rossthefox 
+16:27 <+dsockwell> !superslapanus rossthefox
+16:46 < Weazzy> !superslapanus Rossthefox 
+16:50 < Weazzy> !superslapanus Rossthefox 
+16:52 < Weazzy> !superslapanus Rossthefox 
+20:49 <@rachel> !superslapanus Weazzy 
+22:41 < amnizu> !superslapanus
+--- Day changed Sat Nov 08 2014
+02:16 < Weazzy> !superslapanus pdonghole 
+02:17 < Weazzy> !superslapanusv2 pdonghole 
+02:21 < Weazzy> !superslapanusv2 pdonghole 
+02:22 <+pdonghole> !superslapanusv2 weazzy
+02:27 < Weazzy> !supersuckurdick pdonghole 
+02:27 < Weazzy> !supersuckurdick pdonghole 
+02:27 < Weazzy> !supersuckurdick pdonghole 
+02:28 < Weazzy> !supersuckurdick pdonghole 
+02:29 < Weazzy> !supersuckurdick pdonghole 
+02:30 < Weazzy> !supersuckurdick pdonghole 
+03:47 <+pdonghole> !superslapanus weazzy
+03:47 <+pdonghole> !superslapanus weazzy
+03:47 <+pdonghole> !superslapanus weazzy
+03:47 <+pdonghole> !superslapanus weazzy
+03:53 < Weazzy> !supersuckurdick pdonghole 
+03:56 < pdonghole> !supersuckurdick Weazzy 
+04:12 < what> !supersuckurdick pdonghole
+07:20 < cccccppppp> !superslapanus 
+07:50 < sunnid> !superslapanusv2
+11:26 <@rachel> !superslapanusv2 dave_mark 
+11:54 < pdonghole> !superslapanus pdonghole
+12:13 < amnizu> !superslapanus
+12:14 < dsockwell> !supersuckurdick
+12:45 < dsockwell> !supersuckurdick dsockwell
+13:01 < pdonghole> !supersuckurdick pdonghole
+13:01 <%fishy> !supersuckurdick dicks
+13:02 < dsockwell> if you !supersuckurdick yourself, it sanicks you to penisnick
+15:57 <@rachel> !supersuckurdick HyrulianHero 
+16:27 < cccccppppp> !superslapanus
+16:29 <@rachel> !superslapanusv2 roland 
+16:29 <@rachel> !superslapanusv2 roland 
+16:30 <@rachel> !supersuckurdick roland 
+16:30 <@rachel> !supersuckurdick roland 
+16:31 <@rachel> !superslapaniggasanus
+16:32 <@rachel> !superslapaniggasanus clippy 
+17:59 <@rachel> !superslapanus dsockwell 
+19:31 < Weazzy> !supersuckurdick Rossthefox 
+19:36 < Weazzy> !supersuckurdick Rossthefox 
+19:44 < Weazzy> !supersuckurdick Rossthefox 
+19:47 < Weazzy> !supersuckurdick Rossthefox 
+19:48 < Weazzy> !supersuckurdick Rossthefox 
+19:49 < Weazzy> !supersuckurdick Rossthefox 
+19:49 < Weazzy> !supersuckurdick Rossthefox 
+19:54 < Weazzy> !supersuckurdick Rossthefox 
+21:17 < Weazzy> !superslapanus
+21:30 < Weazzy> !supersuckurdick ChrstphrR 
+22:01 < Weazzy> !supersuckurdick
+22:41 < Weazzy> !supersuckurdick
+22:49 <@rachel> !supersuckurdick Weazzy 
+--- Day changed Sun Nov 09 2014
+00:53 < roland> !superslapanus
+01:18 < roland> !superslapanus
+01:48 < roland> !supersuckurdick
+01:52 < Weazzy> !supersuckurdick amnizu 
+02:05 < Weazzy> !supersuckurdick FrobtheBuilder 
+02:32 < Weazzy> !supersuckurdick
+02:51 < Weazzy> !supersuckurdick
+02:52 < amnizu> !superslapanus
+02:53 < amnizu> !superslapanus
+02:57 < Weazzy> !supersuckurdick
+02:57 <%fishy> !supersuckurdick
+03:00 < dsockwell> !supersuckurdick amnizu 
+03:01 < amnizu> !supersuckurdick dsockwell
+03:02 < amnizu> !supersuckurdick dsockwell
+03:05 < dsockwell> !supersuckurdick amnizu
+03:08 < dsockwell> !supersuckurdick amnizu
+03:25 < Weazzy> !supersuckurdick
+03:48 < what> !supersuckyourdick Weazzy 
+03:48 < doge> !supersuckurdick what
+03:58 < what> !supersuckurdick doge 
+04:04 < what> !supersuckurdick svchost 
+04:11 < Weazzy> !supersuckurdick doge 
+05:38 < what> !supersuckurdick doge 
+14:08 < rachel> !supersuckurdick m4ndalore 
+15:22 < doge> !supersuckurdick what_ 
+15:23 < what_> !supersuckurdick doge
+15:24 < what_> !supersuckurdick doge
+15:25 < what_> !supersuckurdick doge
+15:25 < amnizu> !supersuckurdick anyone
+15:38 < amnizu> !supersuckurdick anyone
+17:47 < what_> !supersuckurdick svchost 
+17:50 < amnizu> !superslapanus
+18:08 < Weazzy> !supersuckurdick amnizu 
+18:49 < amnizu> !superslapanus
+18:56 < amnizu> !superslapanus
+22:33 < Weazzy> !supersuckurdick Crionarx1 
+22:36 < Weazzy> !supersuckurdick Crionarx1 
+22:38 < dsockwell> !supersuckurdick Crionarx1 
+22:38 < dsockwell> !supersuckurdick Crionarx1 
+22:40 < Weazzy> !supersuckurdick Crionarx1 
+22:40 < Weazzy> !supersuckurdick Crionarx1 
+22:40 < dsockwell> !supersuckurdick Crionarx1 
+22:43 < dsockwell> !supersuckurdick Crionarx1 
+22:44 < Weazzy> !supersuckurdick Crionarx 
+22:44 < Weazzy> !supersuckurdick Crionarx 
+22:45 < Weazzy> !supersuckurdick Crionarx 
+22:45 < Weazzy> !supersuckurdick Crionarx 
+22:46 < Weazzy> !supersuckurdick CrionarxGamma 
+22:46 < Weazzy> !supersuckurdick CrionarxGamma 
+22:46 < CrionarxGamma> !supersuckurdick Weazzy
+22:47 < Weazzy> !supersuckurdick CrionarxGamma 
+22:47 < Weazzy> !supersuckurdick CrionarxGamma 
+22:47 < Weazzy> !supersuckurdick CrionarxGamma 
+22:47 < CrionarxGamma> !supersuckurdick Weazzy
+22:47 < Weazzy> !supersuckurdick CrionarxGamma 
+22:48 < Weazzy> !supersuckurdick CrionarxGamma 
+22:49 < Weazzy> !supersuckurdick CrionarxGamma 
+22:49 < Weazzy> !supersuckurdick CrionarxGamma 
+22:52 < dsockwell> !supersuckurdick GreatLeaderCrionarx 
+22:55 < Weazzy> !supersuckurdick GreatLeaderCrionarx 
+22:57 < Weazzy> !supersuckurdick GreatLeaderCrionarx 
+22:57 < Weazzy> !supersuckurdick GreatLeaderCrionarx 
+22:59 < Weazzy> !supersuckurdick TrueEmperorCrionarx 
+22:59 < Weazzy> !supersuckurdick TrueEmperorCrionarx 
+23:00 < Weazzy> !supersuckurdick TrueEmperorCrionarx 
+23:01 < Weazzy> !supersuckurdick SatanBug 
+23:01 < Weazzy> !supersuckurdick SatanBug 
+23:02 < Weazzy> !supersuckurdick SatanBug 
+23:02 < Weazzy> !supersuckurdick SatanBug 
+--- Day changed Mon Nov 10 2014
+02:38 < Weazzy> !supersuckurdick
+04:11 < Weazzy> !superslapanusv2
+04:15 < Weazzy> !superslapanusv2
+04:19 < Weazzy> !superslapanusv2
+09:11 < cccccppppp> !superslapanus
+09:39 < rachel> !superslapanus sunnid 
+14:06 < what> !supersuckurdick jaek 
+14:10 < jaek> !supersuckurdick what 
+14:15 < what> !supersuckurdick jaek 
+15:31 < Weazzy> !superslapanus
+15:31 < jaek> !supersuckurdick Weazzy 
+16:10 < Weazzy> !supersuckurdick
+16:25 < dsockwell> !superslapanusv2
+16:52 < Weazzy> !supersuckurdick qbasic_bitch 
+16:55 <@svchost> !supersuckyourdick Weazzy 
+16:55 <@svchost> !supersuckurdick Weazzy 
+17:01 < qbasic_bitch> !superslapanus
+17:05 < qbasic_bitch> !superslapanus
+17:08 < qbasic_bitch> !superslapanus
+18:54 < say> !superslapanus
+18:56 < Weazzy> !supersuckurdick
+19:03 < roland> !superslapaniggasanus
+19:11 < Weazzy> !supersuckurdick
+19:16 < Weazzy> !supersuckurdick
+20:31 < Weazzy> !supersuckurdick
+20:32 <@ceph> !superslapanus
+21:03 < Weazzy> !superslapanus
+21:04 < tani> !superslapaniggasanus
+21:16 < rachel> !superslapanusv2 ceph 
+21:35 < Weazzy> !supersuckurdick
+--- Day changed Tue Nov 11 2014
+00:39 < qbasic_bitch> !superslapanus
+00:54 < tani> !superslapaniggasanus
+02:29 < what> !supersuckurdick Sound-of-doge 
+02:29 <%fishy> !supersuckurdick dong 
+02:59 < qbasic_bitch> !supersuckurdick what
+03:38 < qbasic_bitch> !superslapanus
+03:42 < what> !supersuckurdick qbasic_bitch 
+04:29 < what> !supersuckurdick qbasic_bitch 
+05:29 < what> !supersuckurdick what
+07:47 < Weazzy> !supersuckurdick
+11:21 < dsockwell> !supersuckurdick rachel
+14:31 < World-of-doge> !supersuckdick rachel
+14:31 < World-of-doge> !superslapanusv2 rachel
+14:34 < qbasic_bitch> !superslapanus
+14:41 < World-of-doge> !superslapanusv2 qbasic_bitch 
+14:45 <@svchost> !superslapanus tumblrina
+14:47 < qbasic_bitch> !superslapanus
+16:57 < Weazzy> !supersuckurdick
+18:54 < TanIPhone_> !superslapaniggasanus
+19:40 < roland> !superslapanusv2
+19:40 < roland> !supersuckurdick
+21:45 < Weazzy> !supersuckurdick
+21:48 < dsockwell> !supersuckurdick jaek
+22:44 < qbasic_bitch> !superslapanus
+22:46 < dsockwell> !superslapanus
+23:12 < Weazzy> !supersuckurdick
+--- Day changed Wed Nov 12 2014
+09:37 < Weazzy> !supersuckurdick
+09:50 < dsockwell> !supersuckurdick
+14:27 < rachel> !supersuckurdick dbladez 
+15:52 < Weazzy> !superslapanus
+16:28 < amnizu> !superslapanus
+16:56 < cccccppppp> !superslapanus
+19:22 < tani> !superslapaniggasanus
+19:58 < Weazzy> !supersuckurdick rachel 
+20:02 < dsockwell> !supersuckurdick sunnid
+20:24 < roland> !supersuckurdick
+20:42 < amnizu> !superslapanus
+20:43 < sunnid> !superslapaniggasanus
+20:50 < amnizu> !superslapanus
+21:04 < Weazzy> !supersuckurdick
+21:08 < amnizu> !superslapanus
+21:20 < amnizu> !superslapanus
+21:26 < amnizu> !superslapanus
+21:40 < Weazzy> !supersuckurdick
+21:49 < Weazzy> !supersuckurdick
+21:53 < Weazzy> !supersuckurdick LiteralHumanGarbage 
+22:04 < Weazzy> !supersuckurdick
+22:11 < Weazzy> !supersuckurdick
+22:16 < amnizu> !superslapanus
+22:20 < roland> !superslapaniggasanus
+22:22 < amnizu> !superslapanus
+22:22 < dsockwell> !superslapanus Weazzy 
+22:24 < Weazzy> !supersuckurdick rachel 
+22:27 < amnizu> !superslapanus
+22:27 < jaek> !supersuckurdick
+22:38 < say> !superslapanus
+23:08 < amnizu> !superslapanus
+23:09 < say> !superslapniggaanus
+23:21 < amnizu> !superslapanus
+23:52 < Weazzy> !supersuckurdick
+--- Day changed Thu Nov 13 2014
+03:26 < Weazzy> !superslapanus
+10:15 < rachel> !superslapanus sonatia 
+10:41 < cccccppppp> !superslapanus
+11:24 < cccccppppp> !superslapanus
+17:48 < Weazzy> !supersuckurdick
+18:00 < dsockwell> !superblackpeoplegiantdicks
+18:01 < dsockwell> !supersoulbrotherdong
+18:01 < dsockwell> !supergiantcock
+18:01 < Weazzy> !superduckurdick dsockwell 
+18:01 < dsockwell> !superslapanus
+23:11 < Weazzy> !supersuckurdick rachel 
+--- Day changed Fri Nov 14 2014
+04:29 < Weazzy> !supersuckurdick what_ 
+07:51 < What> !supersuckurdick wolf
+07:51 < roland> !superslapaniggasanus
+08:32 < dsockwell> !superslapanusv2
+09:42 < dsockwell> !superslapanusv2 Weazzy 
+09:49 < dsockwell> !superslapanus Weazzy 
+09:49 <%fishy> !superslapanus Weazzy dicks
+19:59 < Weazzy> !supersuckurdick
+19:59 <%fishy> !supersuckurdick
+23:13 < what_> !supersuckurdick Weazzy 
+23:23 < Weazzy> !supersuckurdick
+23:31 < Weazzy> !supersuckurdick
+23:59 < Weazzy> !supersuckurdick
+--- Day changed Sat Nov 15 2014
+00:08 < what_> !supersuckurdick kakama 
+00:11 < Weazzy> !supersuckurdick
+00:41 < Weazzy> !supersuckurdick
+00:54 < Weazzy> !supersuckurdick
+11:38 < rachel> !supersuckurdick roland 
+12:04 < roland> !superslapanus
+15:21 < Weazzy> !supersuckurdick
+21:42 < doge> !superslapanusv2
+21:57 < rachel> !superslapanus pielover88888 
+--- Day changed Sun Nov 16 2014
+05:57 < What> !supersuckurdick alice
+07:22 < dsockwell> !superslapanus
+09:56 < sayitsnot> !superslapanus
+12:28 < rachel> !supersuckurdick
+12:45 < what_> !supersuckurdick jakncoke 
+15:14 < what_> !supersuckurdick farts
+16:58 < what_> !supersuckurdick
+19:06 < Weazzy> !supersuckurdick
+19:17 < Weazzy> !supersuckurdick
+20:29 < Weazzy> !supersuckurdick
+22:47 < Weazzy> !supersuckurdick
+22:51 < dsockwell> !supersuckaniggasdick
+22:51 < Weazzy> !supersuckurdick
+22:51 < dsockwell> !supersuckaniggadick
+23:01 < Weazzy> !supersuckurdick
+23:03 < dsockwell> !superslapanus
+23:03 < dsockwell> !superslapanus
+23:03 < dsockwell> !superslapanus
+23:13 < Weazzy> !supersuckurdick
+23:14 < amnizu> !superslapanus
+23:16 < amnizu> !superslapanus Weazzy
+23:26 < Weazzy> !supersuckurdick Anomaly 
+23:43 < League-of-doge> !superslapanusv2
+23:57 < amnizu> !superslapanus
+--- Day changed Mon Nov 17 2014
+08:13 <@svchost> !supersuckurdick 
+09:59 < dsockwell> !supersuckurdick wolf
+10:05 < dsockwell> !supersuckurdick wolf
+13:12 < Weazzy> !supersuckurdick
+14:31 <@svchost> !supersuckurdick Weazzy 
+14:33 < Weazzy> !supersuckurdick
+14:46 < Weazzy> !supersuckurdick FrobtheBuilder 
+14:52 < Weazzy> !supersuckurdick rachel 
+14:53 < jaek> !supersuckurdick rachel 
+15:02 < Weazzy> !supersuckurdick jakncoke 
+16:12 < Weazzy> !supersuckurdick Rossthefox 
+16:20 < amnizu> !supersuckurdick Anthrouser
+16:39 < Weazzy> !supersuckurdick dsockwell 
+17:12 < Weazzy> !supersuckurdick
+17:17 < amnizu> !superslapanus
+17:34 < Weazzy> !supersuckurdick
+18:13 < Weazzy> !supersuckurdick
+18:54 < Weazzy> !supersuckurdick
+18:56 < dsockwell> !supersuckurdick
+18:56 < dsockwell> !supersuckurdick
+20:48 < Weazzy> !supersuckurdick
+21:50 < Weazzy> !supersuckurdick
+--- Day changed Tue Nov 18 2014
+05:26 < Weazzy> !supersuckurdick
+07:39 < Weazzy> !supersuckurdick
+08:54 < Weazzy> !supersuckurdick
+12:31 < Weazzy> !supersuckurdick
+12:37 < rothen> !superslapanus
+13:21 < Weazzy> !supersuckurdick
+13:23 < rothen> !superslapanus
+13:23 < rothen> !superslapanus
+14:12 < rothen> !superslapanus
+16:44 < amnizu> !superslapanus
+22:57 < clippy> !superslapanus
+--- Day changed Wed Nov 19 2014
+08:58 < what> !supersuckurdick
+09:09 < what> !supersuckurdick Crionarx 
+09:14 < sayso> !superslapanus
+09:15 < sayso> !superslapnigganus
+10:39 < Weazzy> !supersuckurdick
+10:40 < Rothen> !superslapanus
+10:42 < Rothen> !superslapanus
+11:03 < what> !supersuckurdick
+11:04 < Rothen> !superslapanus
+11:06 < Rothen> !superslapanus
+11:34 < what> !supersuckurdick
+11:39 < what> !supersuckurdick
+11:43 < say> !superslapanus
+12:04 < Weazzy> !supersuckurdick
+12:07 < rachel> !supersuckurdick dave_mark 
+12:55 < rachel> !supersuckurdick dave_mark 
+13:58 < what> !supersuckurdick dave_mark 
+14:15 < rachel> !superslapanusv2 MechOnGrt 
+14:16 < Rothen> !superslapanus
+15:06 < Weazzy> !supersuckurdick rachel 
+15:53 < Weazzy> !supersuckurdick
+19:28 < Weazzy> !supersuckurdick
+19:40 < Weazzy> !supersuckurdick amnizu 
+20:16 < cccccppppp> !superslapanus
+20:38 < Weazzy> !supersuckurdick
+21:08 < Weazzy> !supersuckurdick Wolf-of-doge 
+21:26 < Weazzy> !supersuckurdick
+21:26 < Rothen> !superslapanus
+21:43 < Weazzy> !superslapanus Rothen 
+23:24 < Weazzy> !supersuckurdick rachel 
+23:48 < Weazzy> !supersuckurdick
+23:51 < Weazzy> !supersuckurdick
+23:58 < pope-smear> !superslapanus
+--- Day changed Thu Nov 20 2014
+00:08 < Wolf-of-doge> !superslapanusv2
+00:08 < cccccppppp> !superslapanus
+00:33 < pope-smear> !superslapanus
+01:20 < Weazzy> !supersuckdick rachel 
+01:20 < Weazzy> !supersuckurdick rachel 
+01:20 < rachel> !superfuckmyass pope-smear 
+01:21 < Rothen> !superslapanus
+01:22 < Weazzy> !supersuckurdick rachel 
+01:23 < Rothen> !superslapanus
+01:27 < cccccppppp> !superslapanus Rothen
+01:27 < cccccppppp> !superslapanusv2 Rothen
+01:28 < Weazzy> cccccppppp: !supersuckurdick has the shortest timeout
+01:28 < cccccppppp> !supersuckurdick Rothen
+01:28 < cccccppppp> !supersuckurdick Rothen
+01:28 < cccccppppp> !supersuckurdick Rothen
+02:56 < pope-smear> !superslapanus Weazzy
+02:57 < cccccppppp> !supersuckurdick
+03:18 < dsockwell> !superslapanus
+03:38 < Rothen> !supersuckurdick
+03:41 < Rothen> !superslapanusv2
+03:41 < pope-smear> !superslapanus
+03:41 < pope-smear> !superslapanusv2
+03:48 < pope-smear> !superslapanus
+03:49 < Rothen> !supersuckurdick pope-smear 
+03:50 < Rothen> !supersuckurdick doesn't set the timer for !superslapanus*, but !superslapanus* sets the timer for !supersuckurdick.
+03:53 < Rothen> !superslapanusv2
+03:53 < Rothen> !superslapanus
+03:59 < dsockwell> !supersuckurdick
+03:59 < dsockwell> !superslapanus
+04:00 < Rothen> !superslapanusv2 dsockwell 
+04:01 < Rothen> !superslapanusv2 dsockwell 
+04:02 < Rothen> .tell rachel It would be cool if !super* didn't pick ops.
+04:06 < Rothen> !supersuckurdickv2
+04:06 < Rothen> !supersuckurdick
+04:06 < Rothen> !superslapanus
+04:08 < dsockwell> !supersuckurdick rothen
+04:08 < dsockwell> !supersuckurdick rothen
+04:09 < Rothen> !superslapanus rothen
+04:11 < Rothen> !supersuckurdick
+04:23 < Rothen> !supersuckurdick
+08:04 <%Wintermute> rachel: It would be cool if !super* didn't pick ops. (Rothen) [4 hours and 2 minutes ago]
+10:48 < sayso> !superslapanus
+12:40 < cccccppppp> !superslapanus
+13:09 <@svchost> !superslapanus pielover88888 
+13:10 < pielover88888> !superslapanus
+13:19 < pielover88888> !superslapanus
+15:10 < Weazzy> !supersuckurdick
+15:19 < Weazzy> !supersuckurdick
+15:21 < dsockwell> !supersuckurdick pielover88888 
+15:21 < pielover88888> !superslapanus dsockwell 
+15:21 <@dbladez> !supersuckurdick pielover88888
+15:21 < dsockwell> !supersuckurdick pielover88888 
+15:24 < dsockwell> !supersuckurdick pielover88888 
+15:26 < Weazzy> !supersuckurdick
+15:52 < Weazzy> !supersuckurdick what_ 
+16:04 < Weazzy> !supersuckurdick
+16:07 < say_> !superslapanus
+16:14 < Weazzy> !supersuckurdick
+16:18 < no> !superslapcunt
+16:19 < no> !superslapanus
+16:19 < jaek> !supersuckurcunt
+16:22 < Weazzy> !supersuckurdick say 
+16:25 < Weazzy> !supersuckurdick
+16:55 < Weazzy> !supersuckurdick Rossthefox 
+16:57 < Weazzy> !supersuckurdick
+16:58 < say> !superslapanus
+16:59 < Weazzy> !supersuckurdick Rossthefox 
+17:00 < Weazzy> !supersuckurdick Rossthefox 
+17:04 < Rothen> !superslapanusv2
+17:17 < Weazzy> !supersuckurdick Rossthefox 
+17:19 < Weazzy> !supersuckurdick Rossthefox 
+17:19 < Weazzy> !supersuckurdick Rossthefox 
+17:22 < Weazzy> !supersuckurdick Rossthefox 
+17:24 < Weazzy> !supersuckurdick Rossthefox 
+17:26 <%Wintermute> !supersuckurdick
+17:26 <%Wintermute> !supersuckurdick Rossthefox
+17:26 < Weazzy> !supersuckurdick Rossthefox 
+17:29 < Rothen> !supersuckurdick Rossthefox 
+17:32 < Weazzy> !supersuckurdick Rossthefox 
+17:45 < Weazzy> !supersuckurdick
+17:51 < Weazzy> !supersuckurdick
+17:55 < Weazzy> !supersuckurdick
+17:58 < Rothen> !superslapanus
+18:51 < Rothen> !superslapaniggasanus
+19:55 < Rothen> !supersuckurdick
+22:14 < Weazzy> !supersuckurdick
+22:54 < Rothen> !superslapanus
+23:53 < Weazzy> !superslapanus
+--- Day changed Fri Nov 21 2014
+00:02 < Weazzy> !supersuckurdick
+00:40 < Weazzy> !supersuckurdick FrobtheBuilder 
+00:41 < Rothen> !superslapaniggasanus jaek 
+00:42 < Rothen> !superslapaniggasanus jaek 
+00:49 < dsockwell> !superslapaniggasanus
+00:49 < Weazzy> dsockwell: that's why we !supersuckurdick
+00:52 < Weazzy> !supersuckurdick
+00:53 < Weazzy> !supersuckurdick
+04:00 < Weazzy> !supersuckurdick
+04:02 < Weazzy> !supersuckurdick Rothen 
+04:02 < Weazzy> .tell rachel !supersuckurdick can't SUCK won't SUCK
+04:02 < Weazzy> !supersuckurdick Rothen 
+04:07 < Rothen> !supersuckursick
+04:08 < Weazzy> !supersuckurdick
+04:08 < Rothen> !supersuckurdick
+04:13 < Weazzy> !supersuckurdick dsockwell 
+04:21 < Weazzy> !supersuckurdick dsockwell 
+04:23 < Rothen> !supersuckurdick
+04:23 < Weazzy> !supersuckurdick Rothen 
+04:23 < Weazzy> !supersuckurdick Rothen 
+13:04 < Weazzy> !supersuckurdick svchost 
+13:05 < Weazzy> last night I did !supersuckurdick <someone> a lot
+13:14 < Rothen> !supersuckurdick
+13:19 < Wintermute> rachel: !supersuckurdick can't SUCK won't SUCK (Weazzy) [9 hours and 17 minutes ago]
+13:29 < Rothen> !supersuckurdick
+13:35 < Weazzy> !supersuckurdick svchost 
+13:53 < what> !supersuckurdick jakncoke
+13:57 < Rothen> !superslapanus
+14:01 < Weazzy> !supersuckurdick
+14:01 < Rothen> !superslapurdick
+14:02 < Rothen> !superslapanusv2 Rothen
+14:03 < Rothen> At least it's not !superslapaniggasanus
+14:53 < Rothen> !supersuckurdick
+15:14 < Weazzy> !supersuckurdick
+16:10 < Weazzy> !supersuckurdick
+16:17 < Weazzy> !supersuckurdick
+16:22 < Weazzy> !supersuckurdick
+16:22 < jakncoke> !supersuckurdick weazzy
+20:01 < Weazzy> !supersuckurdick
+20:05 < Weazzy> !supersuckurdick
+20:17 < cccccppppp> !superslapanus
+20:21 < Weazzy> !supersuckurdick
+20:21 <%fishy> !supersuckurdick
+20:22 < dsockwell> !supersuckutdick
+20:22 < Weazzy> !supersuckurdick
+20:28 < Weazzy> !supersuckurdick
+20:32 < dsockwell> !supersuckaniggasdickv2
+20:32 < dsockwell> !supersuckaniggasdick
+20:34 < Weazzy> !superslapaniggahsanus dsockwell 
+20:35 < Weazzy> !supersuckurdick
+20:40 < roland> !superslapaniggasanus
+22:00 < Weazzy> !supersuckurdick
+22:19 < Weazzy> !supersuckurdick rachel 
+23:52 < Weazzy> !supersuckurdick
+--- Day changed Sat Nov 22 2014
+01:39 < Weazzy> !supersuckurdick
+01:45 < Weazzy> !supersuckurdick
+03:19 < Weazzy> !supersuckurdick
+03:42 < Weazzy> !supersuckurdick
+04:10 < Weazzy> !supersuckurdick
+04:31 < Rothen> !supersuckurdick
+04:31 < Weazzy> !supersuckurdick
+05:00 < Weazzy> !supersuckurdick
+05:08 < Rothen> !superslapanus Weazzy 
+05:10 < Rothen> !superslapanus Weazzy 
+05:27 < Rothen> !superslapanus Weazzy 
+05:27 <%fishy> !superslapanus dicks 
+05:41 < Rothen> !superslapanus Weazzy 
+12:01 < roland> !supersuckurdick
+12:14 < roland> !superslapanus
+12:27 < roland> !superslapanus jakncoke 
+14:03 < roland> !superslapaniggasanus
+14:07 < Weazzy> !supersuckurdick
+14:14 < say> !superslapanus
+15:03 < Weazzy> !supersuckurdick jakncoke 
+15:12 < dsockwell> !superslapaniggasanus
+16:11 < Weazzy> !supersuckurdick
+17:13 < Rothen> !superslapanus
+17:18 < Rothen> !supersuckurdick
+17:18 < Rothen> !supersuckurdick
+17:33 < Weazzy> !supersuckurdick
+17:37 < Rothen> !supersuckurdick
+17:48 < Weazzy> !supersuckurdick
+17:59 < rachel> !superslapanusv2 Uncomfortable__ 
+18:13 < Weazzy> !supersuckurdick
+18:13 < say> !superslapanus
+18:14 < say> !superslapdick
+18:30 < Weazzy> !supersuckurdick
+18:45 < Weazzy> !supersuckurdick what 
+18:53 < what> !supersuckurdick Weazzy
+19:11 < Weazzy> .echo !superduckurdick what 
+19:11 < Wintermute> !superduckurdick what 
+19:11 < Weazzy> .echo !supersuckurdick what 
+19:11 < Wintermute> !supersuckurdick what 
+19:18 < say> !superslapanus
+19:18 < jaek> !supersuckurdick what
+19:25 < Weazzy> .echo !supersuckurdick
+19:25 < Wintermute> !supersuckurdick
+19:28 < what> .echo !supersuckurdick
+19:28 <%Wintermute> !supersuckurdick
+19:47 < what> !supersuckurdick say
+20:25 < roland> !superslapanus
+21:26 < roland> !superslapanus
+--- Day changed Sun Nov 23 2014
+01:47 < rachel> !superslapaniggasanus
+01:48 < rachel> !superslapanus
+01:48 < rachel> !superslapanusv2
+01:48 < rachel> !supersuckurdick
+01:48 < rachel> !superslapaniggasanus
+01:49 < rachel> !superslapanusv2
+01:49 < rachel> !supersuckurdick
+01:49 < rachel> !superslapaniggasanus
+01:49 < rachel> !superslapanus
+01:49 < rachel> !superslapanusv2
+01:49 < rachel> !supersuckurdick
+01:49 < rachel> !superslapaniggasanus
+01:50 < rachel> !superslapanusv2
+01:50 < rachel> !superslapanus
+01:50 < rachel> !supersuckurdick
+01:50 < rachel> !superslapaniggasanus
+01:50 < rachel> !superslapanus
+01:50 < rachel> !superslapanusv2
+01:50 <%fishy> !superslapanusv2
+01:50 < rachel> !supersuckurdick
+01:50 < rachel> !superslapaniggasanus
+04:28 < Rothen> !supersuckurdickv2
+04:28 < Rothen> !supersuckurdick
+04:37 < Rothen> !supersuckurdick
+04:38 < dsockwell> !superslapaniggasanus
+04:39 < dsockwell> !superslapaniggasanus
+05:45 < Rothen> !supersuckurdick
+05:57 < Rothen> !supersuckurdick
+05:59 < Rothen> !supersuckurdick
+06:00 < Rothen> !supersuckurdick
+06:03 < Rothen> !supersuckurdick
+06:39 < Rothen> !supersuckurdick
+07:31 < League-of-doge> !superslapanusv2
+10:43 < No> !superslapanus
+10:49 < amnizu> !superslapanus No
+12:36 < say> !superslapanus
+12:49 < say> !superslapanusv2
+13:05 < say> !superslapanusv2
+14:44 < say> !superslapanus
+16:15 < Weazzy> !supersuckurdick
+16:19 < Weazzy> !supersuckurdick
+16:24 < Weazzy> !supersuckurdick
+16:57 < jaek> !supersuckurdickv2 clippy 
+16:57 < jaek> !supersuckurdick clippy 
+17:10 < what> !supersuckurdick dsockwell 
+17:21 < Weazzy> !supersuckurdick
+17:45 < Weazzy> !supersuckurdick
+18:02 < Weazzy>  !supersuckurdick
+18:02 < Weazzy> .echo !supersuckurdick
+18:03 < Weazzy> .echo !supersuckurdick
+18:03 <%Wintermute> !supersuckurdick
+19:24 < Weazzy> !supersuckurdick
+19:27 < Weazzy> !supersuckurdick
+19:45 < dsockwell> !superslapaniggasanus rachel
+20:39 < Weazzy> !supersuckurdick
+20:49 < Weazzy> !supersuckurdick
+20:53 < say> !superslapanus
+21:08 < Weazzy> !supersuckurdick dsockwell 
+21:48 < Weazzy> !supersuckurdick
+21:48 <%fishy> !supersuckurdick
+22:06 < Rothen> !supersuckurdick
+22:12 < roland> !superslapaniggasanus
+--- Day changed Mon Nov 24 2014
+02:27 < clippy> !supersuckdickv2
+02:27 < clippy> !supersuckurdick
+02:27 < say> !supersuckdick
+02:31 < dsockwell> !supersuckurdick clippy
+03:47 < say> !superslapanus
+03:47 <%fishy> !superslapanus
+03:52 < Rothen> !supersuckurdick
+04:23 < say> !superslapanus
+04:38 < say> !superslapanus
+04:58 < say> !superslapanus
+05:03 < Rothen> !superslapanusv3
+05:03 < Rothen> !superslapaniggasanus
+05:21 < Rothen> !superslapanus
+05:29 < what> !supersuckurdick dsockwell 
+08:33 < tyral> !supersuckurdick
+09:47 < what_> !supersuckurdick jakncock 
+09:56 < sayso> !superslapanus
+11:50 < Weazzy> !supersuckurdick
+12:41 < Weazzy> !supersuckurdick
+13:43 < Weazzy> !supersuckurdick
+13:44 < say> !superslapanus
+13:46 < say> !superslapanus
+13:55 < Weazzy> !supersuckurdick
+15:14 < Weazzy> !supersuckurdick
+16:12 < Weazzy> !supersuckurdick
+16:21 < amnizu> !superslapanus
+16:21 <%fishy> !superslapanus
+16:54 < say> !superslapanus
+17:05 < dneetwell> !superslapanus rachel
+17:18 < Weazzy> !supersuckurdick rachel 
+17:53 < Weazzy> !supersuckurdick
+18:31 < sayso> !superslapanus
+19:50 < sayso> !superslapanus
+20:16 < Weazzy> !supersuckurdick
+21:16 < Weazzy> !supersuckurdick
+22:30 < what> !supersuckurdick League-of-doge 
+22:45 < what> !supersuckurdick HyrulianHero 
+22:46 < what> !superslapanus
+22:47 < what> !superslapanus
+22:47 < dneetwell> !superslapanus what
+22:47 < what> !superslapanus
+22:47 < dneetwell> !superslapanus what
+22:47 < dneetwell> !superslapanus what
+22:47 < what> !superslapanus
+22:54 < Weazzy> !supersuckurdick
+22:55 < HyrulianHero> with !supersuckurdick around I don't think I will be able to idle forever in #wetfish
+23:15 < say> !superslapanus
+23:24 < Weazzy> !supersuckurdick say 
+23:28 < Weazzy> !supersuckurdick say 
+23:30 < say> !superslapanus
+23:30 < say> !superslapanus
+23:40 < Rothen> !superslapanus
+23:53 < Weazzy> !supersuckurdick
+--- Day changed Tue Nov 25 2014
+00:19 < Weazzy> !supersuckurdick
+00:33 < Weazzy> !supersuckurdick rachel 
+00:39 < Weazzy> !supersuckurdick
+01:14 < Rothen> !supersuckurdick
+01:19 < dsockwell> !supersuck
+01:19 < dsockwell> !supersuckurdick
+02:05 < Rothen> !supersuckurdick 
+02:37 < Rothen> !supersuckurdick 
+02:44 < Rothen> !supersuckurdick 
+03:53 < Rothen> !supersuckurdick 
+08:51 <@lq> !superslapanus
+10:01 < sayso> !superslapanus
+10:43 < sayso> !superslapanus sayso
+13:47 < Weazzy> !supersuckurdick rachel 
+13:49 < say> !superslapanus
+14:22 < Rothen> !superslapanusv2
+15:00 < Weazzy> !supersuckurdick rachel 
+15:18 < Weazzy> !supersuckurdick rachel 
+15:23 < Weazzy> !supersuckurdick rachel 
+15:39 < Weazzy> !supersuckurdick rachel 
+15:42 < Weazzy> !supersuckurdick rachel 
+16:08 < Weazzy> !supersuckurdick
+16:27 < Weazzy> !supersuckurdick
+16:30 < Weazzy> !supersuckurdick
+16:33 < Weazzy> !supersuckurdick
+16:34 <@rachel> !supersuckurdick tyral 
+16:36 < tyral> !superslapanus
+16:39 < Weazzy> !supersuckurdick
+16:43 < Weazzy> !supersuckurdick
+16:50 < tyral> !superslapanus
+17:29 < Weazzy> !supersuckurdick who 
+17:33 < Weazzy> !supersuckurdick who 
+17:38 < Weazzy> .echo !supersuckurdick who 
+17:38 < Wintermute> !supersuckurdick who 
+17:39 < who> !superslapanus Weazzy 
+17:39 < who> !superslapanus Weazzy 
+17:40 < who> !superslapanus Weazzy 
+17:40 < who> !superslapanus Weazzy 
+17:43 < who> !superslapanus Weazzy 
+17:53 < Weazzy> !supersuckurdick who 
+18:00 < Weazzy> !supersuckurdick
+18:16 < Weazzy> !supersuckurdick
+18:17 < who> !superslapanus Weazzy 
+18:17 < Weazzy> !supersuckurdick who
+18:17 < Weazzy> !supersuckurdick who
+18:18 < Weazzy> !supersuckurdick who
+18:18 < dsockwell> !supersuckurdick weazzy
+18:19 < Weazzy> !supersuckurdick who
+18:19 < who> !superslapanus Weazzy 
+18:19 < dsockwell> !superslapaniggasanus weazzy
+18:20 < dsockwell> !superslapaniggasanus weazzy
+18:20 < Weazzy> !supersuckurdick who
+18:20 < dsockwell> !superslapaniggasanus weazzy
+18:20 < Weazzy> !supersuckurdick who
+18:22 < who> !supersuckurdick Wintermute 
+18:23 < Weazzy> !supersuckurdick who 
+18:27 < Weazzy> !supersuckurdick who 
+18:28 < dsockwell> !supersuckurdick HyrulianHero 
+18:28 <%fishy> !supersuckurdick dicks 
+18:30 < dsockwell> !superslapaniggasanus HyrulianHero 
+18:30 < dsockwell> !superslapaniggasanus HyrulianHero 
+18:54 < Rothen> !superslapanusv2
+19:06 < dsockwell> !superslapaniggasanus cccccppppp 
+19:10 < no> !superslapanus
+19:16 < say> !superslapanis
+19:16 < dsockwell> !superslapaniggasanus say
+19:16 < say> !superslapanus
+19:34 < Weazzy> !supersuckurdick
+19:46 < Weazzy> !supersuckurdick Rossthefox 
+19:49 < say> !superslapanus
+19:52 < Weazzy> !supersuckurdick Rossthefox 
+19:54 < say> !superslapanus
+19:57 <@rachel> !superslapanus rossthefox 
+19:57 <@rachel> !superslapanus rossthefox 
+19:57 <@rachel> !superslapanus rossthefox 
+19:57 <@rachel> !superslapanus rossthefox 
+19:57 <@rachel> !superslapanus rossthefox 
+19:57 <@rachel> !superslapanus rossthefox 
+19:57 <@rachel> !superslapanus rossthefox 
+19:57 <@rachel> !superslapanus rossthefox 
+19:57 <@rachel> !superslapanus rossthefox 
+19:57 < Weazzy> !superslapanus Rossthefox 
+19:57 < Weazzy> !superslapanus Rossthefox 
+19:57 < Weazzy> !superslapanus Rossthefox 
+19:57 < Weazzy> !superslapanus Rossthefox 
+19:57 < Weazzy> !superslapanus Rossthefox 
+19:57 < fishy> !superslapanus dongs 
+19:57 < Weazzy> !superslapanus Rossthefox 
+19:57 < Weazzy> !superslapanus Rossthefox 
+19:57 < Weazzy> !superslapanus Rossthefox 
+19:57 < Weazzy> !superslapanus Rossthefox 
+19:57 < Weazzy> !superslapanus Rossthefox 
+19:57 < Weazzy> !superslapanus Rossthefox 
+19:57 < Weazzy> !superslapanus Rossthefox 
+19:59 <@rachel> !superslapanus Rossthefox 
+19:59 <@rachel> !superslapanus rossthefox 
+19:59 <@rachel> !superslapanus rossthefox 
+19:59 <@rachel> !superslapanusv2 rossthefox 
+19:59 <@rachel> !superslapanusv2 rossthefox 
+19:59 < fishy> !superslapanusv2 rossthefox dick
+20:00 <@rachel> !superslapanusv2 rossthefox 
+20:00 <@rachel> !superslapanusv2 rossthefox 
+20:00 < amnizu> !superslapanus
+20:00 < dsockwell> !superslapanusv2 Rossthefox 
+20:00 <%fishy> !superslapanusv2 Rossthefox dicks
+20:01 <@rachel> !supersuckurdick rossthefox 
+20:01 <%fishy> !supersuckurdick dick 
+20:01 <@rachel> !supersuckurdick rossthefox 
+20:01 <@rachel> !supersuckurdick rossthefox 
+20:01 <@rachel> !supersuckurdick rossthefox 
+20:01 <@rachel> !supersuckurdick rossthefox 
+20:01 < dsockwell> !superslapanusv2 Rossthefox 
+20:01 <@rachel> !supersuckurdick rossthefox 
+20:01 <@rachel> !supersuckurdick rossthefox 
+20:01 < dsockwell> !superslapanusv2 Rossthefox 
+20:02 <@rachel> !supersuckurdick rossthefox 
+20:02 <@rachel> !supersuckurdick rossthefox 
+20:02 <@rachel> !supersuckurdick rossthefox 
+20:02 <@rachel> !supersuckurdick rossthefox 
+20:02 <@rachel> !supersuckurdick rossthefox 
+20:03 < Rothen> !superslapanus Rossthefox 
+20:03 <@rachel> !supersuckurdick rossthefox
+20:03 < say> !superslapanus
+20:03 < amnizu> !superslapanus Rossthefox
+20:05 <@rachel> !supersuckurdick Rossthefox
+20:05 <@rachel> !supersuckurdick Rossthefox
+20:05 <@rachel> !supersuckurdick Rossthefox
+20:05 <@rachel> !supersuckurdick Rossthefox
+20:05 <@rachel> !supersuckurdick Rossthefox
+20:06 <@rachel> !supersuckurdick Rossthefox
+20:26 < Weazzy> !supersuckurdick say 
+20:45 < say> !superslapanus
+20:55 < Rothen> !supersuckurdick
+21:14 < Rothen> !superslapanus
+21:16 < amnizu> !superslapanus
+21:47 < say> !superslapanus
+21:48 < dsockwell> !superslapanus THE MODLE OFOFOOOOOLE JOLE JOELEE MOLE
+22:52 < Rothen> !superslapanus
+23:44 < Weazzy> !supersuckurdick
+--- Day changed Wed Nov 26 2014
+01:02 < Weazzy> !supersuckurdick rachel 
+01:04 < Weazzy> !supersuckurdick rachel 
+01:05 < Weazzy> !supersuckurdick rachel 
+01:06 < Weazzy> !supersuckurdick rachel 
+01:42 < tani> !superslapaniggasanus
+01:45 < Weazzy> !supersuckurdick rachel 
+01:46 < amnizu> !superslapanus
+02:59 < Weazzy> !supersuckurdick
+03:08 < Weazzy> !supersuckurdick dsockwell 
+03:10 < dsockwell> !superslapaniggasanus Weazzy 
+03:10 < dsockwell> !superslapaniggasanus Weazzy 
+03:36 < Rothen> !superslapanus
+03:48 < Rothen> !superslapanus
+05:34 < Weazzy> !supersuckurdick
+10:30 < Rothen> !superslapanus
+10:36 < Rothen> !superslapanus
+10:41 < Rothen> !superslapanus
+12:35 < say> !superanusslap
+12:36 < say> !superslapanus
+12:46 < Rothen> !supersuckurdick
+13:40 < Rothen> !supersuckurdick
+14:05 < say> !superslapanus
+14:07 < chet> !superslapanus
+14:14 < amnizu> !superslapanus
+14:14 <%fishy> !superslapanus
+15:59 < say> !superslapanus
+16:12 < dsockwell> !superslapaniggasanus jakncoke 
+17:13 < say> !superslapanus
+17:20 < jaek> !supersuckurdickv2 what 
+19:01 < say> !superslapanus
+19:33 < sayso> !superslapanus 
+19:43 < amnizu> !superslapanus
+20:56 < say> !superslapanus
+21:48 < say> !superslapanus
+22:18 < say> !superslapanus
+22:42 < roland> !superslapanus
+--- Day changed Thu Nov 27 2014
+01:14 < dsockwell> !superslapaniggasanus wolf
+01:20 < Rothen> !supersuckurdick
+01:24 < dsockwell> !superslapaniggasanus wolf
+01:24 < dsockwell> !superslapaniggasanus wolf
+02:39 < Rothen> !supersuckurdick
+03:08 < amnizu> !superslapanus fishy
+07:33 < No> !superslapanus
+07:53 < say> !superslapanus
+09:27 <@dbladez> !superslapuranus say 
+09:27 <@dbladez> !superslapanus say 
+09:46 < say> !superslapanus
+09:47 < svchost> !superslapanus
+17:27 < say> !superslapanus
+17:34 < cccccppppp> !superslapanus Rossthefox
+20:36 < dsockwell> !superslapanus
+22:34 < Weazzy> !supersuckurdick
+--- Day changed Fri Nov 28 2014
+00:38 < amnizu> !superslapanus
+00:44 < amnizu> !superslapanus
+00:47 < Rothen> !superslapanus
+00:51 < Rothen> !supersuckurdick
+01:02 < dsockwell> !superslapanus
+01:16 < Rothen> !supersuckurdick
+01:23 < amnizu> !superslapanus
+01:33 < amnizu> !superslapanus
+01:52 < Rothen> !supersuckurdick
+01:52 <@fishy> !supersuckurdick
+03:05 < amnizu> !superslapanus
+03:06 < FrobtheBuilder> !superslapanus PYROTEKNIK
+03:16 < PYROTEKNIK> !superslapanus
+03:16 < dsockwell> !superslapanus PYROTEKNIK 
+03:19 < amnizu> !superslapanus
+03:23 < amnizu> !superslapanus
+03:47 < amnizu> !superslapanus
+04:04 < amnizu> !superslapanus
+07:57 < say> !superslapanus
+09:09 < sayso> !superslapanus
+15:22 < roland> !superslapaniggasanus
+17:39 < sayo> !superslapanus
+17:53 < sayo> !superslapanus
+18:47 < tyral> !superslapanus
+19:22 < say> !superslapanus
+19:32 < say> !superslapanus
+21:11 < sayso> !superslapanus
+22:33 < roland> !superslapaniggasanus
+23:41 < say> !superslapanus
+--- Day changed Sat Nov 29 2014
+05:29 < Rothen> !superslapanusv2
+06:14 < Rothen> !superslapanusv2
+06:20 < Rothen> !superslapanusv2
+11:34 < PYROTEKNIK> !superslapanus
+12:40 < roland> !superslapanus
+13:39 < roland> !superslapaniggasanus
+15:35 < say> !superslapanus
+17:01 < roland> !superslapaniggasanus
+18:43 < Rothen> !superslapanus
+19:53 < say> !superslapanus
+20:40 < say> !superslapanus
+21:01 < say> !superslapanus
+21:22 < dsockwell> !superslapanus jakncoke 
+22:46 < dsockwell> !superslapanusv2 neilk 
+23:07 < say> !superslapanus
+23:27 < say> !superslapanus
+23:53 < tani> !superslapdsockwellsanus
+--- Day changed Sun Nov 30 2014
+03:40 < amnizu> !superslapanus
+04:04 < amnizu> !superslapanus
+14:48 < PYROTEKNIK> !superslapanus
+15:19 < Rothen> !supersuckurdick Rossthefox
+16:53 < say> !superslapanus
+16:53 <%fishy> !superslapanus
+20:13 < Weazzy> !supersuckurdick clippy 
+20:18 < Weazzy> !supersuckurdick
+20:22 < Weazzy> !supersuckurdick
+20:27 < Weazzy> !supersuckurdick
+20:35 < Weazzy> !supersuckurdick
+20:56 < say> !superslapanus
+20:56 < sunnid> !superslapaniggasanus
+21:00 < Weazzy> !supersuckurdick
+21:00 <%fishy> !supersuckurdick
+21:00 < sunnid> !superslapaniggasanus
+21:03 < Weazzy> !supersuckurdick
+21:08 < Weazzy> !supersuckurdick
+21:15 < Weazzy> !supersuckurdick
+21:27 < sunnid> !supersuckurdick
+21:35 < Weazzy> !supersuckurdick
+21:40 < Weazzy> !supersuckurdick
+--- Day changed Mon Dec 01 2014
+13:51 < Weazzy> !supersuckurdick
+16:08 < sayso> !superslapanus
+16:08 <%fishy> !superslapanus
+17:26 < sayso> !superslapanus
+17:38 < sayso> !superslapanus
+19:56 < tani> !superslapaniggasanus
+21:51 < tyral> !supersuckdick
+21:55 < Weazzy> !supersuckurdick
+22:01 < Weazzy> !supersuckurdick commiePi 
+22:05 < cccccppppp> !superslapanus Weazzy
+23:41 < Rothen> !superslapanus
+--- Day changed Tue Dec 02 2014
+00:34 < Rothen> !supersuckurdick ceph
+08:22 < dsockwell> !superslapaniggasanus
+10:50 < sayso> !superslapanus
+11:25 < Weazzy> !supersuckurdick
+12:54 < Weazzy> !supersuckurdick
+15:28 < Weazzy> !supersuckurdick
+15:42 < Weazzy> !supersuckurdick
+16:08 < Sayso> !superslapanus
+16:17 < Sayso> !superslapanus
+16:47 < ceph> !superslapanus
+16:49 < ceph> !superslapanus
+18:43 < Rothen> !supersuckurdick Weazzy
+18:54 < sayso> !superslapanus
+19:12 < Weazzy> !supersuckurdick sayso 
+20:17 < Weazzy> !supersuckurdick sayso 
+20:57 < Weazzy> !supersuckurdick
+21:07 < roland> !superslapanus
+21:12 < Weazzy> !supersuckurdick rachel 
+21:30 < Weazzy> !supersuckurdick
+21:35 < Weazzy> !supersuckurdick
+21:49 < Weazzy> !supersuckurdick say 
+22:01 < Weazzy> !supersuckurdick say 
+22:02 < Weazzy> !supersuckurdick say 
+22:04 < say> !superslapanus
+22:10 < Weazzy> .echo !supersuckurdick say 
+22:10 <%Wintermute> !supersuckurdick say 
+22:15 < say> !superslapanus
+23:22 < tani> !superslapaniggasanus
+23:54 < Weazzy> .echo !supersuckurdick rachel
+23:54 <%Wintermute> !supersuckurdick rachel
+--- Day changed Wed Dec 03 2014
+00:02 < Rothen> !superslapanus
+00:02 < Rothen> !superslapanus
+00:02 < Weazzy> >!superslapanus
+00:22 < Weazzy> .echo !supersuckurdick rachel 
+00:22 <%Wintermute> !supersuckurdick rachel 
+00:34 < Weazzy> !supersuckurdick rachel 
+01:27 < Rothen> !superslapaniggasanus Weazzy
+01:37 < Rothen> !superslapanusv2 what 
+01:37 < Rothen> !superslapanusv2 what 
+10:29 < Weazzy> !supersuckurdick
+10:50 < say> !supersuckurdick
+11:38 < say> !supersuckurdick
+12:27 <@rachel> !superslapanus Weazzy 
+12:33 < Weazzy> !supersuckurdick sayso 
+12:57 < Albatrossthefox> !supersuckurdick
+14:43 < Weazzy> !supersuckurdick
+14:57 < Weazzy> !supersuckurdick
+15:51 < Fish-of-doge> !superslapanusv2
+16:41 < sayso> !superslapanus
+16:44 < Rothen> !superslapanusv2
+17:33 < Weazzy> !supersuckurdick
+18:34 < Weazzy> !supersuckurdick
+18:43 < sayso> !superslapanus
+18:58 < sayso> !superslapanus
+19:16 < Rothen> !superslapanus
+21:10 < Weazzy> !supersuckurdick
+21:24 < Weazzy> !supersuckurdick
+21:26 < rectal`volume`tolerability> !superslapanus
+21:52 < say> !superslapanus
+21:52 < say> !supersuckurdick
+21:53 < say> !supersuckurdick
+21:53 < Weazzy> !supersuckurdick
+22:11 < Weazzy> !supersuckurdick rachel 
+22:15 < what> !supersuckurdick RemmyX25 
+22:26 < roland> !superslapanus
+22:40 < Weazzy> !supersuckurdick ceph 
+22:47 < roland> !superslapaniggasanus
+22:48 < ceph> !superslapanus
+22:48 < Weazzy> !supersuckurdick WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW 
+23:07 < say> !supersuckurdick
+23:36 < rectal`volume`tolerability> !superslapanus
+--- Day changed Thu Dec 04 2014
+00:01 < rectal`volume`tolerability> !superslapanus
+00:25 <@Weazzy> !supersuckurdick
+00:26 <@Weazzy> !supersuckurdick
+00:26 < rectal`volume`tolerability> !superslapanus
+00:28 < rectal`volume`tolerability> !superslapanus
+02:10 <@Weazzy> !supersuckurdick
+02:54 <@Weazzy> !supersuckurdick
+02:59 <@Weazzy> !supersuckurdick
+03:23 <@Weazzy> >echo !supersuckurdick
+03:23 <%Wintermute> !supersuckurdick
+03:39 < rectal`volume`tolerability> !superslapanus
+09:13 < tyral> !superslapanus
+10:07 <@Weazzy> !supersuckurdick
+10:24 <@Weazzy> !supersuckurdick
+11:19 <@Weazzy> !supersuckurdick
+11:25 <@Weazzy> !supersuckurdick
+11:47 < say> !superslapanus
+12:08 < Weazzy> !supersuckurdick Sayso 
+12:27 < Sayso> !supersuckurdick
+15:56 < Weazzy> !supersuckurdick
+16:00 < Weazzy> !supersuckurdick
+16:33 < Weazzy> !supersuckurdick
+16:45 < tyral> !superslapanus
+16:50 < Rothen> !superslapanus
+17:16 < Weazzy> !supersuckurdick
+17:30 < Weazzy> !supersuckurdick
+18:07 < Weazzy> !supersuckurdick
+18:11 < Weazzy> !supersuckurdick rachel 
+18:24 < Rothen> !superslapanus
+19:16 < say> !supersuckurdick
+19:55 < Weazzy> !supersuckurdick sayso 
+20:03 < say> !supersuckurdick say
+20:29 < Weazzy> !supersuckurdick
+20:31 < Weazzy> !supersuckurdick say 
+20:32 < Weazzy> !supersuckurdick say 
+20:32 <%fishy> !supersuckurdick say butt
+20:35 < say> !superslapanus
+20:53 < Weazzy> !supersuckurdick say 
+20:58 < Weazzy> !supersuckurdick sunnid 
+21:02 < say> !supersuckurdick say
+21:10 < Weazzy> !supersuckurdick rachel 
+21:11 < Weazzy> !setgreeting >echo !supersuckurdick
+21:12 <%denice> >echo !supersuckurdick
+21:12 <%Wintermute> !supersuckurdick
+22:15 < Weazzy> !supersuckurdick Anomaly 
+22:15 < Rothen> >tell rachel Please fix !supersuckirdick
+22:15 < Rothen> .tell rachel Please fix !supersuckirdick
+22:16 <%Fiolina> Hi, rachel! Rothen left a message for you: Please fix !supersuckirdick
+22:35 < Weazzy> !supersuckurdick
+23:03 < rachel2> rachel: Please fix !supersuckirdick (Rothen) [47 minutes ago]
+23:05 < Weazzy> !supersuckurdick
+23:31 < Weazzy> !supersuckurdick
+23:36 < Weazzy> !supersuckurdick rectal`volume`tolerability 
+--- Day changed Fri Dec 05 2014
+02:15 < Weazzy> !supersuckurdick
+02:59 < Rothen> !superslapanus esquesque 
+03:50 < rectal`volume`tolerability> !superslapanus
+04:49 < Rothen> !superslapanusv2
+05:18 < rectal`volume`tolerability> !superslapanus
+05:25 < rectal`volume`tolerability> !superslapanus
+06:16 < Rothen> !superslapanusv2
+06:32 < Rothen> !superslapanusv2
+10:26 < ROLANDphone> !superslapaniggasanus
+10:29 < rectal`volume`tolerability> !superslapanus
+11:01 < No> !superslapanus
+12:00 < say> !superslapanus
+13:02 < Weazzy> !supersuckurdick
+13:33 < Weazzy> !supersuckurdick say 
+14:12 < Weazzy> !supersuckurdick
+14:22 < Weazzy> !supersuckurdick
+14:47 < Weazzy> !supersuckurdick sai 
+14:50 < Weazzy> !supersuckurdick sai 
+15:06 < Weazzy> !supersuckurdick
+15:10 < Weazzy> !supersuckurdick rectal`volume`tolerability 
+15:40 < Weazzy> !supersuckurdick
+15:58 < Weazzy> !supersuckurdick
+16:34 < Weazzy> !supersuckurdick
+16:38 < sai> !superslapanus
+16:46 < Weazzy> !supersuckurdick sai 
+16:47 < Weazzy> !supersuckurdick sai 
+16:48 < Weazzy> !supersuckurdick sai 
+16:49 < Weazzy> !supersuckurdick sai 
+16:49 < Rothen> !superslapanus
+16:50 < Weazzy> !supersuckurdick sai 
+16:50 < Rothen> !superslapanusv2 sai
+16:50 < Rothen> !superslapanusv2 sai
+16:50 < Weazzy> !supersuckurdick sai 
+18:14 < Rothen> !superslapanusv2
+21:21 < say> !superslapanus
+21:23 < tyral> !supersuckurdick
+21:58 < say> !superslapanus ChrstphrR 
+23:35 <@RemmyX25> !superslapanus
+23:57 < tani> !superslapanus
+--- Day changed Sat Dec 06 2014
+03:09 < Weazzy> !supersuckurdick
+03:39 < Weazzy> !supersuckurdick
+04:13 < Rothen> !superslapaniggasanus Weazzy 
+04:59 < rothen_> !superslapanusv2 Weazzy 
+05:01 < rothen_> Hm. I think I can DoS !superslapanus.
+05:06 < rothen_> !superslapanus
+05:06 < Weazzy> !superslapanus
+05:06 < Weazzy> !supersuckurdick
+05:20 < rothen_> !superslapanus
+05:37 < rothen> !superslapanus
+12:28 < rectal`volume`tolerability> !superslapanus
+12:32 < sayso> !supersuckurdick Rossthefox 
+12:33 < sayso> !supersuckurdick Rossthefox 
+12:44 < say> !supersuckurdick
+13:49 < Weazzy> !supersuckurdick rectal`volume`tolerability 
+13:57 < Weazzy> !supersuckurdick spaghetti 
+14:34 < No> !supersuckurdick sb057_ 
+14:37 < Weazzy> !supersuckurdick No 
+14:41 < roland> !supersuckurdick
+14:52 < Weazzy> !supersuckurdick say 
+15:04 < Weazzy> !supersuckurdick
+15:47 < Weazzy> !supersuckurdick rothen
+16:23 < No> !supersuckurdick what
+17:15 < Weazzy> !supersuckurdick
+17:22 < Weazzy> !supersuckurdick
+17:28 < Weazzy> !supersuckurdick rectal`volume`tolerability 
+18:07 < No> !supersuckurdick what
+18:07 <%fishy> !supersuckurdick butts
+18:07 <%Fiolina> Weazzy: I last saw No at 2014-12-07 - 01:07:03 on #wetfish, saying !supersuckurdick what
+18:11 < say> !supersuckurdick un
+18:15 < say> !supersuckurdick Uncomfortable_ 
+18:37 < say> !superslapanus jakncoke 
+18:53 < say> !superslapanus jakncoke 
+19:05 < say> !superslapanus jakncoke 
+19:13 < roland> !superslapaniggasanus
+19:48 < roland> !superslapaniggasanus
+19:53 < roland> !superslapanus
+21:58 <@RemmyX25> !superanal
+22:01 < roland> !superslapanus
+--- Day changed Sun Dec 07 2014
+07:33 < Weazzy> !supersuckurdick
+07:41 < Weazzy> !supersuckurdick rectal`volume`tolerability 
+08:02 < Weazzy> !supersuckrudick ____________________________________________ 
+08:02 < Weazzy> !supersuckurdick ____________________________________________ 
+08:38 < cccccppppp> !superslapanus ____________________________________________
+09:39 < Weazzy> !supersuckurdick
+09:59 < Weazzy> !supersuckurdick ____________________________________________ 
+10:07 < sayso> !superslapanus jakncoke 
+10:16 < Weazzy> !supersuckurdick ____________________________________________ 
+10:18 <%denice> .tell Weazzy can you see !supersuckurdick
+10:18 <%Fiolina> Hi, Weazzy! denice left a message for you: can you see !supersuckurdick
+10:20 < Weazzy> !supersuckurdick ____________________________________________ 
+10:21 < Weazzy> !supersuckurdick ____________________________________________ 
+10:22 < Weazzy> !supersuckurdick ____________________________________________ 
+13:40 < Weazzy> !supersuckurdick
+14:03 < Weazzy> !supersuckurdick ____________________________________________ 
+14:44 < Weazzy> !supersuckurdick ____________________________________________ 
+14:57 < roland> !superslapanus
+15:12 < Weazzy> !supersuckurdick sunnid 
+15:15 < Weazzy> !supersuckurdick sunnid 
+15:59 < Weazzy> !supersuckurdick sunnid 
+16:42 < sayso> !supersuckurdick Justin_ 
+16:48 < Weazzy> !supersuckurdick sayso 
+16:54 < sayso> !supersuckurdick what_ 
+16:57 < rothen__> !superslapanus
+17:02 < sayso> !supersuckurdick Weazzy 
+17:02 <%Fiolina> Weazzy: I last saw sayso at 2014-12-08 - 00:02:47 on #wetfish, saying !supersuckurdick Weazzy 
+17:16 < what> !supersuckurdick Rothen 
+17:19 < what> !supersuckurdick Rothen 
+17:27 < sayso> !supersuckurdick what 
+17:29 < sayso> !supersuckurdick what
+17:36 <@rachel> !superslapanus treefire 
+17:41 < sayso> !supersuckurdick Rossthefox 
+17:44 < Rothen> !superslapanus
+18:20 < sayso> !supersuckurdick sunnid
+18:24 < sayso> !supersuckurdick treefire 
+19:37 < Weazzy> !supersuckurdick
+19:51 < Weazzy> !supersuckurdick
+20:32 < say> !supersuckurdick jaek 
+20:37 < roland> !superslapaniggasanus
+20:51 < roland> !superslapanus
+21:23 <@rachel> !supersuckurdick treefire 
+21:40 < Weazzy> !supersuckurdick dave_mark 
+21:40 < lq> !superslapanus
+21:43 < say> !superslapanus
+22:46 < Weazzy> !supersuckurdick evan
+23:22 < Weazzy> !supersuckurdick
+23:25 < roland> !superslapanus
+23:44 < Weazzy> !supersuckurdick
+--- Day changed Mon Dec 08 2014
+00:57 < Weazzy> !supersuckurdick
+00:59 < tani> !supersuckweazzysdick
+01:01 < Weazzy> !superblowmyloadintanismouth
+01:17 < Weazzy> !supersuckurdick
+02:12 < Weazzy> !supersuckurdick
+04:07 < Rothen> !superslapanus
+04:11 < Rothen> !superslapanusv2 Weazzy 
+04:13 < Rothen> !superslapanusv2 Weazzy 
+07:26 < say> !supersuckurdick what
+07:37 < amnizyule> !supersuckurdick
+08:07 < sayso> !supersuckurdick sayso
+11:06 < sayso> !supersuckurdick amnizyule 
+11:55 < sayso> !supersuckurdick what
+13:12 < noo> !supersuckurdick jimmyandcoke
+13:36 < Weazzy> !supersuckurdick
+13:59 < Weazzy> !supersuckurdick
+14:55 < Weazzy> !supersuckurdick jaknphone 
+15:00 < Weazzy> >echo !supersuckurdick jaknphone 
+15:00 < Wintermute> !supersuckurdick jaknphone 
+15:17 < cccccppppp> !superslapanus Weazzy
+16:23 <@rachel> !superslapanus treefire 
+17:26 < Weazzy> !supersuckurdick
+17:29 < Weazzy> >echo !supersuckurdick Weazzy
+17:29 < Wintermute> !supersuckurdick Weazzy
+19:30 < sayso> !superslapanus
+19:57 < Weazzy> !supersuckuridck
+19:57 < Weazzy> !supersuckurdick
+19:57 <%fishy> !supersuckurdick
+20:15 < roland> !superslapaniggasanus
+20:19 < tani> !supersuckurdick
+20:21 < roland> !superslapanus
+20:21 < tani> !supersuckurdick
+20:59 < roland> !supersuckurdick tani
+21:02 < say> !supersuckurdick Sound-of-doge 
+21:22 < Weazzy> >echo !supersuckurdick rachel 
+21:22 < Wintermute> !supersuckurdick rachel 
+21:23 < sunnid> !supersuckurdick
+21:43 < say> !supersuckurdick say
+21:59 < Weazzy> !supersuckurdick
+22:03 < say> !supersuckurdick say
+22:08 < Weazzy> !supersuckurdick
+22:12 < roland> !supersuckurdick
+22:15 < roland> !superslapaniggasanus
+22:18 < say> !supersuckurdick Weazzy 
+22:18 < ceph> !superslapanus
+22:18 < Weazzy> !supersuckurdick
+22:22 < say> !supersuckurdick Anomaly 
+22:41 < Weazzy> !supersuckurdick
+22:45 < say> !supersuckurdick what_ 
+23:11 < Weazzy> !supersuckurdick rachel 
+23:16 < roland> !superslapanus roland 
+23:17 <@RemmyX25> !superdicksuck Weazzy 
+23:17 <@RemmyX25> !supersuckurdick Weazzy 
+23:18 < Weazzy> /echo !supersuckurdick roland 
+23:18 < Wintermute> !supersuckurdick roland 
+23:46 < Weazzy> !supersuckurdick
+23:49 < Weazzy> !supersuckurdick
+--- Day changed Tue Dec 09 2014
+00:11 < Weazzy> !supersuckurdick
+07:05 <%denice> >echo !supersuckurdick jaknphone [Jakncoke] => 2 < djerkwell> wait, a javascript game because javascript
+07:05 <%fishy> >echo !supersuckurdick dick [Jakncoke] => 2 < djerkwell> wait, a javascript game because javascript
+07:05 < Wintermute> !supersuckurdick jaknphone [Jakncoke] => 2 < djerkwell> wait, a javascript game because javascript
+07:05 < Wintermute> !supersuckurdick dick [Jakncoke] => 2 < djerkwell> wait, a javascript game because javascript
+07:32 < Weazzy> !supersuckurdick
+07:34 <+dsockwell> !supersuckurdick
+07:36 <+dsockwell> !supersuckurdick weazzy
+07:37 <+dsockwell> !supersuckurdick weazzy
+07:38 <+dsockwell> !supersuckurdick weazzy
+08:00 < tyral> !superslapanus
+08:41 < Weazzy> !supersuckurdick
+08:56 < Weazzy> !supersuckurdick
+09:07 < Weazzy> !supersuckurdick
+09:21 < Weazzy> !supersuckurdick AndChat|235809 
+09:27 < clippy> !supersuckurdick jaknphone
+09:29 < dsockwell> !supersuckurdick jaknphone 
+09:56 < planet`of`the`gapes> !superslapanus
+10:11 < Weazzy> !supersuckurdick clippy 
+10:34 < Weazzy> !supersuckurdick
+11:36 < say> !supersuckurdick
+13:22 < Weazzy> !supersuckurdick
+13:44 < say> !supersuckurdick planet`of`the`gapes 
+13:55 <@Weazzy> !supersuckurdick
+13:59 <@Weazzy> !supersuckurdick Justin_ 
+14:28 <@Weazzy> !supersuckurdick say 
+15:24 <@Weazzy> !supersuckurdick
+15:27 < planet`of`the`gapes> 682 instances of !superslapanus, 768 kicks by fishy (not all for superslapanus but whatever) 70 of which are Weazzy
+15:28 < sayso> !supersuckurdick say!
+15:31 <@Weazzy> !supersuckurdick sayso 
+15:35 <@rachel> Weazzy: tail -n 100000 irclogs/199/#wetfish.log | grep -E "Weazzy> \!super|kicked" > slapstats.txt
+15:55 <@Weazzy> !supersuckurdick
+16:25 <%denice> >echo !supersuckurdick jaknphone $$$$$$h;, | |_| / ___ \ `.`.`.`$""=,
+16:25 < Wintermute> !supersuckurdick jaknphone $$$$$$h;, | |_| / ___ \ `.`.`.`$""=,
+17:06 < sayso> !supersuckurdick ceph
+17:20 < sayso> !supersuckurdick Rossthefox 
+17:44 <@Weazzy> !supersuckurdick
+17:49 < dsockwell> !supersuckurdick
+19:00 <@Weazzy> !supersuckurdick
+19:17 < sayso> !supersuckurdick Weazzy 
+19:19 < sayso> !superslapanus
+19:32 <@Weazzy> !supersuckurdick
+19:50 < say> !superslapanus solo
+19:56 <@Weazzy> !supersuckurdick say 
+20:14 < Weazzy> !supersuckurdick
+20:23 <@Weazzy> !supersuckurdick
+20:50 <@Weazzy> !supersuckurdick
+21:26 < roland> !superslapanus
+21:56 < Rothen> !superslapanus
+22:37 <@Weazzy> !supersuckurdick
+23:13 <@Weazzy> !supersuckurdick
+23:48 <@Weazzy> !supersuckurdick Anomaly 
+23:49 < roland> !supersuckurdick
+--- Day changed Wed Dec 10 2014
+00:11 <@Weazzy> !supersuckurdick
+10:04 < say> !supersuckurdick 
+10:13 < say> !superslapanus Justin_ 
+11:34 < sayso> !supersuckurdick Vagisore 
+11:39 < Rothen> !supersuckurdick
+12:24 <@Weazzy> !supersuckurdick
+14:27 <@dbladez> !superslapanus
+14:58 < Rothen> !superslapanus Weazzy 
+17:14 < say> !superslapanus
+18:54 <@Weazzy> !supersuckurdick dsockwell 
+19:25 <@Weazzy> !supersuckurdick
+20:25 < say> !supersuckurdick Uncomfortable_ 
+20:57 <@Weazzy> !supersuckurdick
+21:46 <@Weazzy> !supersuckurdick
+21:54 <@Weazzy> !supersuckurdick rachel 
+22:29 <@Weazzy> !supersuckrudick rachel 
+22:29 <@Weazzy> !supersuckurdick rachel 
+22:59 <@Weazzy> !supersuckurdick
+23:50 <@Weazzy> !supersuckurdick
+23:54 <@Weazzy> !supersuckurdick jaek 
+--- Day changed Thu Dec 11 2014
+00:09 <@Weazzy> !supersuckurdick Anomaly 
+00:14 <@Weazzy> !supersuckurdick Anomaly 
+00:14 <@Weazzy> !supersuckurdick Anomaly 
+00:16 <@Weazzy> !supersuckurdick Anomaly 
+00:16 <@FrobtheBuilder> !supersuckurdick FrobtheBuilder
+00:16 <%fishy> !supersuckurdick dongs
+00:18 < Rothen> !superslapanus Weazzy 
+00:18 < Rothen> !superslapanus Weazzy 
+00:18 <%fishy> !superslapanus DICK 
+00:20 <@FrobtheBuilder> <Weazzy> !supersuckurdick Anomaly 
+00:21 <@RemmyX25> !supersuckurdick
+01:06 <@Weazzy> !supersuckurdick
+01:27 <@Weazzy> !supersuckurdick
+01:42 <@Weazzy> !supersuckurdick
+03:15 <@Weazzy> !supersuckurdick
+03:15 <%fishy> !supersuckurdick
+03:44 <@Weazzy> !supersuckurdick
+03:58 <@Weazzy> !supersuckurdick
+04:04 <@Weazzy> !supersuckurdick
+04:29 <@Weazzy> !supersuckurdick
+10:40 <@Weazzy> !supersuckurdick
+10:42 < lq> !superslapanus
+11:38 <@Weazzy> !supersuckurdick
+11:38 <%fishy> !supersuckurdick
+12:04 <@Weazzy> !supersuckurdick
+12:11 <@Weazzy> !supersuckurdick
+12:43 <@Weazzy> !supersuckurdick noo 
+13:07 < jaek> !supersuckurdick Flarebutts 
+13:14 <@Weazzy> !supersuckurdick
+13:28 <@Weazzy> !supersuckurdick
+14:51 < noo> !supersuckurdick
+15:21 <@Weazzy> !supersuckurdick noo 
+15:23 <@Weazzy> !supersuckurdick say 
+15:26 <@Weazzy> !supersuckurdick noo 
+15:58 <@Weazzy> !supersuckurdick
+15:59 <+dsockwell> !supersuckurdick Flarebutts 
+16:00 <+dsockwell> !supersuckurdick Flarebutts 
+16:24 <@Weazzy> !supersuckurdick
+16:31 <@Weazzy> !supersuckurdick
+16:40 <@Weazzy> !supersuckurdick
+16:47 <@Weazzy> !supersuckurdick
+16:47 <%fishy> !supersuckurdick
+17:17 <@Weazzy> !supersuckurdick
+18:01 <@Weazzy> !supersuckurdick
+18:45 <@Weazzy> !supersuckurdick
+19:32 <@Weazzy> !supersuckurdick
+19:53 < sayso> !supersuckurdick Weazzy 
+20:32 <@Weazzy> !supersuckurdick
+21:35 <@Weazzy> !supersuckurdick
+22:30 < Sound-of-doge> !superslapanusv2
+22:46 <@Weazzy> !supersuckurdick
+22:52 <@Weazzy> !supersuckurdick
+23:54 <@Weazzy> !supersuckurdick
+--- Day changed Fri Dec 12 2014
+00:14 < Rothen> !superslapanusv2
+01:56 < Rothen> !superslapanusv2 Weazzy 
+02:38 <@Weazzy> !supersuckurdick
+02:58 <@Weazzy> !supersuckurdick
+03:03 <@rachel> !supersuckurdick
+03:05 < tani> !superslapaniggasanus
+03:09 < Rothen> !superslapaniggasanus
+03:12 < tani> !superpoisonshits
+03:38 <@Weazzy> !supersuckurdick jaek 
+03:53 < Rothen> !superslapanus Weazzy 
+04:26 <@Weazzy> !supersuckurdick Rothen 
+04:38 <@Weazzy> !supersuckurdick what_ 
+05:07 < what_> !supersuckurdick what_
+10:27 < say> !supersuckurdick ceph
+12:32 <@Weazzy> !supersuckurdick
+13:29 < Rothen> !superslapanus
+13:33 < Rothen> !superslapanus Rothen
+13:50 < Rothen> !superslapanus Rothen
+14:16 <@Weazzy> !supersuckurdick
+14:52 <@Weazzy> !supersuckurdick Flarebutts 
+15:37 < say> !superslapanus Justin_ 
+16:09 <@Weazzy> !supersuckurdick
+16:22 <@Weazzy> !supersuckurdick
+16:52 <@Weazzy> !supersuckurdick
+17:02 <@Weazzy> !supersuckurdick
+17:21 <@Weazzy> !supersuckurdick sayso 
+17:56 <@Weazzy> !supersuckurdick
+18:46 <@tani> !superslapaniggasanus Weazzy
+19:03 < Rothen> !superslapanus
+19:13 < Rothen> !superslapanus
+19:50 <@Weazzy> !supersuckurdick
+20:13 <@Weazzy> !supersuckurdick
+21:01 <@Weazzy> !supersuckurdick
+21:05 <@Weazzy> !supersuckurdick
+21:15 <@Weazzy> !supersuckurdick
+21:21 <@Weazzy> !supersuckurdick
+21:33 <@Weazzy> !supersuckurdick
+22:51 < say> !superslapanus What 
+23:06 <@tani> !superslapaniggasanus
+23:37 < say> !supersuckurdick What 
+--- Day changed Sat Dec 13 2014
+03:43 < Rothen> !superslapanus djerkwell 
+04:11 < Rothen> !superslapanus djerkwell 
+07:07 <@Weazzy> !supersuckurdick
+09:12 < say> !superslapanus
+11:19 < roland> !superslapaniggasanus
+15:27 < roland> !superslapanus
+16:33 < sayso> !supersuckurdick Justin 
+18:44 < sayitsnot> !supersuckurdick Justin 
+18:56 < sayitsnot> !superslapanus
+20:24 < haitani> !superslapaniggasanus
+21:19 < say> !supersuckurdick Justin 
+23:04 < say> !supersuckurdick Rossthefox 
+--- Day changed Sun Dec 14 2014
+06:50 < say> !supersuckurdick Justine 
+07:02 < say> !supersuckurdick say
+07:11 < say> !supersuckurdick ChrstphrR_ 
+07:17 < say> !supersuckurdick sunnid
+07:24 < say> !supersuckurdick Justin
+07:31 < say> !supersuckurdick Justine
+07:41 < say> !superslaptits
+07:41 < say> !superslapclit
+07:42 < say> !superpunchkidney 
+07:42 < say> !superfistcolon 
+07:43 < say> !supersuckurdick say
+12:36 < say> !superslapbutt
+12:39 < say> !supersuckurdick Justin
+14:23 < say> !supersuckurdick Rossthefox
+14:29 < say> !supersuckurdick tani
+14:32 < say> !superslapanus 
+14:32 < denice> Rossthefox: NO you dont care if you say !superslapanus clippy it has taken a dick 
+14:33 <@tani> !superslapaniggasanus
+14:36 <@tani> !superslapaniggasanus
+14:36 < say> !superslapanus
+14:38 < say> !supersuckurdick justin
+15:33 < say> !supersuckurdick justin
+15:50 < say> !supersuckurdick ChrstphrR 
+15:50 <%fishy> !supersuckurdick butts 
+15:53 < what> redheron, say keeps !supersuckurdick chrstphr and he got pissed and left
+15:53 < Rothen> !superslapanus say 
+15:55 < bill> !superslapanus bill
+15:56 < lq> !superslapanus
+15:59 < say> !supersuckurdick lq
+16:11 < say> !supersuckurdick jaek
+17:01 < say> !supersuckurdick jakefromstatefarm 
+17:34 < Rothen> !superslapanusv2
+17:44 < sayso> !supersuckurdick
+17:52 < sayso> !supersuckurdick say
+18:25 < djerkwell> !superslurpanus
+18:26 < Rothen> !superslapaniggasanus
+18:44 <@tani> !superslapaniggasanus
+19:31 < sayso> !supersuckurdick AtomicFiredoll 
+19:40 < sayso> !supersuckurdick jakefromstatefarm 
+19:48 < sayso> !supersuckurdick sayso
+--- Day changed Mon Dec 15 2014
+05:03 < rothen> !superslapanusv2
+07:06 < denice> you're wrong and i'm gonna let it mess up again !supersuckurdick
+07:06 < dsockwell> !supersuckurdick
+07:09 < dsockwell> !supersuckurdick
+12:57 < jaek> !supersuckurdick say
+15:37 < sayso> !supersuckurdick jakefromstatefarm
+17:09 < sayso> !supersuckurdick esquesque
+17:12 < dsockwell> !supersuckurdick esquesque 
+19:21 < say> !supersuckurdick commie
+21:27 < say> !supersuckursick say
+21:27 < say> !supersuckurdick say
+22:11 <@tani> !superslapaniggasanus rachel
+23:31 < say> !supersuckurdick Sound-of-doge 
+--- Day changed Tue Dec 16 2014
+05:35 < Rothen> !superslapanus
+09:15 < say> !superslapanus 
+12:28 < say> !supersuckurdick jakefromstatefarm 
+12:36 < say> !supersuckurdick ceph
+13:39 < say> !superslapanus
+13:58 < say> !supersuckurdick jakefromstatefarm 
+14:34 < say> !supersuckurdick davefromthechickenparadise 
+14:51 < Rothen> !superslapanusv2
+15:33 < say> !supersuckurdick pamanderson 
+15:37 < jaek> !supersuckurdick what 
+15:44 < say> !supersuckurdick pamanderson 
+17:24 < sayso> !supersuckurdick pamanderson 
+17:29 < sayso> !supersuckurdick pamanderson 
+20:52 < jaek> !supersuckaniggadick sayso 
+20:52 < jaek> !supersuckaniggasdick sayso 
+20:52 < jaek> !supernigger sayso 
+20:52 < sayso> !supersuckurdick sayso
+20:58 < jaek> !supersuckurdick jaek
+21:08 < say> !supersuckurdick jaek
+21:12 < jaek> !supersuckurdick jaek
+21:13 < say> !setgreeting !supersuckurdick jaek
+21:14 <%denice> !supersuckurdick jaek
+21:31 < say> !supersuckurdick jaek
+21:36 < say> !supersuckurdick jaek
+21:37 <%denice> !supersuckurdick jaek
+22:33 < Rothen> !superslapanus
+--- Day changed Wed Dec 17 2014
+01:32 < Rothen> !superslapanusv3
+01:33 < Rothen> !superslapanusv2
+01:44 < Rothen> !superslapanusv2
+01:52 < Rothen> !superslapanus
+05:05 < Rothen> !superslapanus
+05:43 < tani> !superslapaniggasanus Rothen
+06:35 < Rothen> !superslapanus Crionarx 
+06:56 < Rothen> !superslapanus commie 
+09:50 <%denice> !supersuckurdick jaek
+09:50 <%denice> !supersuckurdick jaek
+12:16 <%denice> !supersuckurdick jaek
+12:22 < Rothen> !superslapanus
+13:37 <%denice> !supersuckurdick jaek
+13:38 <%denice> !supersuckurdick jaek
+13:52 <%denice> !supersuckurdick jaek
+13:52 <%denice> !supersuckurdick jaek
+13:58 < dbladez> !supersuckurdick dbladez 
+15:55 < say> !supersuckurdick 
+15:57 < bukkits> !supersuckurdick
+16:30 < say> !supersuckurdick merry_cismas 
+16:30 <%fishy> !supersuckurdick dick butts
+17:39 < say> !supersuckurdick bukkits 
+17:39 < merry_cismas> !supersuckurdick bukkits
+17:40 < bukkits> !supersuckurdick say
+17:41 < say> !supersuckurdick bukkits 
+17:42 < say> !supersuckurdick bukkits 
+17:42 < bukkits> !supersuckurdick say
+17:42 < bukkits> !supersuckurdick say
+17:43 < say> !supersuckurdick bukkits 
+17:43 < say> !supersuckurdick bukkits 
+17:43 < say> !supersuckurdick bukkits 
+17:43 < say> !supersuckurdick bukkits 
+17:43 < say> !supersuckurdick bukkits 
+17:43 <%fishy> !supersuckurdick bukkits dong
+17:43 < bukkits> !supersuckurdick say
+17:43 < bukkits> !supersuckurdick say
+17:43 <%fishy> !supersuckurdick dongs
+17:43 < bukkits> !supersuckurdick say
+17:43 < say> !supersuckurdick bukkits 
+17:43 < bukkits> !supersuckurdick say
+17:43 < bukkits> !supersuckurdick say
+17:43 < say> !supersuckurdick bukkits 
+17:43 < bukkits> !supersuckurdick say
+17:43 < say> !supersuckurdick bukkits 
+17:43 < bukkits> !supersuckurdick say
+17:43 < bukkits> !supersuckurdick say
+17:43 < say> !supersuckurdick bukkits 
+17:43 < say> !supersuckurdick bukkits 
+17:43 < bukkits> !supersuckurdick say
+17:53 < say> !superslapanus
+17:53 < bukkits> !supersuckurdick say
+17:54 < say> !superslapanus
+17:55 < say> !superslapanus
+17:56 < bukkits> !supersuckurdick say
+17:57 < say> !superslapanus
+17:58 < bukkits> !supersuckurdick say
+17:58 < bukkits> !supersuckurdick say
+18:10 < bukkits> !supersuckyourdick say
+18:10 < bukkits> !supersuckyourdick say
+18:10 < say> !supersuckurdick say
+18:10 < tani> !supersuckaniggasdick say
+19:30 < say> !supersuckurdick
+20:29 < bukkits> !supersuckurdick say
+20:29 < say> !supersuckurdick bukkits 
+22:29 < Rothen> !superslapanus
+23:19 < say> !superslapanus
+23:36 < tyral> !superslapanus
+23:54 < say> !supersuckurdick what
+--- Day changed Thu Dec 18 2014
+01:26 < bukkits> !supersuckurdick tani
+01:38 < Rothen> !superslapanus alomony
+10:53 < say> !supersuckurdick
+12:03 < bukkits> !supersuckurdick dbladez 
+17:11 < Rothen> !superslapanus
+23:11 < Rothen> !superslapanus
+23:33 < roland> !superslapanus
+23:41 < roland> !supersuckurdick
+--- Day changed Fri Dec 19 2014
+02:35 < lq> !supersuckurdicktime
+02:35 < lq> !supersuckurdick
+03:14 <+dsockwell> !supersuckurdick butt
+--- Day changed Sat Dec 20 2014
+08:50 < Rothen> !superslapanus
+14:05 < roland> !supersuckurdick
+14:07 < lq> !superslapaniggasanus
+14:07 < lq> !superslapaniggasanus
+19:26 < say> !supersuckurdick 
+--- Day changed Sun Dec 21 2014
+05:05 < Rothen> !superslapanus
+10:51 < say> !superslapanus
+11:47 < say> !supersuckurdick merry_cismas 
+16:31 < Sound-of-doge> !superslapanusv2
+18:02 < Rothen> !superslapanus
+20:33 < say> !supersuckurdick Sound-of-doge 
+21:12 < say> !supersuckurdick ceph
+22:32 < Seryu> !supersuckurdick Anomaly 
+23:03 < Seryu> !supersuckurdick ceph
+23:10 < roland> !superslapanus
+--- Day changed Mon Dec 22 2014
+06:18 < Rothen> !superslapaniggasanus what 
+06:18 <%fishy> !superslapaniggasanus what dicks
+09:55 < Weazzy> !supersuckurdick
+21:42 < sayitsnot> !supersuckurdick
+23:24 < roland> !supersuckurdick
+--- Day changed Tue Dec 23 2014
+09:07 < say> !supersuckurdick
+15:01 < say> !supersuckurdick roland 
+19:09 < lq> !superslapaniggasanustime
+19:09 < lq> !superslapaniggasanus
+19:13 < roland> !superslapaniggasanus
+20:43 < rothenPi> !superslapanus say
+20:49 < lq> !superslapaniggasanus
+20:50 < lq> !setgreeting >echo !superslapaniggasanus
+21:01 < say> !supersuckurdick say
+21:02 < Flare> !supersuckurdick Flare 
+21:08 < rothenPi> !superslapaniggasanus Flare 
+21:14 < say> !supersuckurdick flare
+23:33 < roland> !supersuckurdick
+23:35 < roland> !superslapanusv2
+23:35 < roland> !superslapanusv2
+23:36 < rothenPi> !superslapanusv2
+23:37 < rothenPi> It's still got nothing on !superslapaniggasanus.
+23:37 <@rachel> 20:00 <@rachel> !superslapanusv2 rossthefox 
+23:37 <@rachel> 20:00 < dsockwell> !superslapanusv2 Rossthefox 
+23:37 <@rachel> 20:00 <%fishy> !superslapanusv2 Rossthefox dicks
+23:37 <@rachel> 15:51 < Fish-of-doge> !superslapanusv2
+23:37 <@rachel> 04:59 < rothen_> !superslapanusv2 Weazzy 
+23:37 <@rachel> 22:30 < Sound-of-doge> !superslapanusv2
+23:37 <@rachel> 23:35 < roland> !superslapanusv2
+23:37 <@rachel> 23:36 < rothenPi> !superslapanusv2
+23:39 < roland> !superslapaniggasanus
+--- Day changed Wed Dec 24 2014
+01:47 < rothenPi> !superslapanus
+10:37 < say> !supersuckurdick mantisshrimp 
+19:54 <@Weazzy> !supersuckurdick
+22:11 < rothenPi> !superslapanus
+22:58 < merry_cismas> !superslapanus
+--- Day changed Thu Dec 25 2014
+00:14 < roland> !superpoisonshits
+00:22 <@rachel> !supersuckurdick
+00:29 < roland> :topic !supersuckurdick
+00:33 < tani> !superslapaniggasanus
+00:48 <@Weazzy> !supersuckurdick
+00:57 <@Weazzy> !supersuckurdick FrobtheBuilder 
+19:44 < say> !supersuckurdick rossthefox 
+21:04 < say> !supersuckurdick dicks
+--- Day changed Fri Dec 26 2014
+03:16 < RothenPi> !superslapanus
+07:34 <@Weazzy> !supersuckurdick
+15:51 < tani> !superslapanus
+15:57 < RothenPi> !superslapanusc2
+15:57 < RothenPi> !superslapanusv2
+16:58 < RothenPi> !superslapanus
+17:02 < lq> !superslapaniggasanus
+17:04 < roland> !superslapaniggasanus
+17:15 < tani> !superslapaniggasanus roland
+17:26 < lq> !superslapaniggasanus
+17:26 <%fishy> !superslapaniggasanus
+22:19 < roland> !superslapanus
+--- Day changed Sat Dec 27 2014
+05:04 < RothenPi> !superslapanus
+06:17 < RothenPi> !superslapanus sunnid 
+09:49 <%denice> >echo !superslapaniggasanus
+09:49 <%denice> >echo !superslapaniggasanus
+09:49 < Wintermute> !superslapaniggasanus
+09:49 < Wintermute> !superslapaniggasanus
+10:17 < dsockwell> !supersuckurdick
+15:07 < tani> !superslapaniggasanus Muhammad
+15:20 < lq> !superslapaniggasanus
+15:22 < what> !superslapaniggasanus
+15:23 < lq> !superslapaniggasanus
+19:42 < RothenPi> !superslapanus rachel
+19:42 <%fishy> !superslapanus butt
+19:53 < Muhammad> !superslapanus
+--- Day changed Sun Dec 28 2014
+01:40 <@Weazzy> !supersuckurdick
+01:44 <@Weazzy> !supersuckurdick rachel 
+01:48 <@Weazzy> !supersuckurdick Crionarx 
+01:51 <@Weazzy> !supersuckurdick Muhammad 
+15:24 < lq> !superslapanus
+18:48 < Rossthef0x> !supersuckurdick
+18:51 < tani> !superslapaniggasanus Rossthefox
+18:53 < sayno> !supersuckurdick what
+18:55 < sayno> !supersuckurdick 
+18:55 < sayno> !supersuckurdick 
+19:02 < sayno> !supersuckurdick Rossthefox 
+19:34 < sayno> !superslapanus
+--- Day changed Mon Dec 29 2014
+07:12 < RothenPi> !superslapanusv3
+07:12 < RothenPi> !superslapanusv2
+11:46 < sayso> !supersuckurdick 
+14:47 < dsockwell> !supersuckurdick
+20:16 < say> !supersuckurdick sunnid 
+22:29 < Wintermute> Last heard from dsockwell 7 hours and 41 minutes ago with "!supersuckurdick"
+22:30 < sunnid> !supersuckurdick
+22:42 < RothenPi> !superslapanus what 
+--- Day changed Tue Dec 30 2014
+02:34 < RothenPi> !superslapanus libfud 
+02:34 < libfud> !superslapanus
+02:34 < libfud> !superslapanus RothenPi 
+02:40 < RothenPi> !superslapanus
+02:40 < libfud> !superslapanus RothenPi 
+02:44 < libfud> !superslapanus RothenPi 
+03:09 <@Prison-of-doge> !superslapanusv2
+04:11 < RothenPi> !superslapaniggasanus
+07:39 < RothenPi> !superslapanusx2
+07:39 < RothenPi> !superslapanusv2
+10:28 < sayso> !supersuckurdick say
+14:11 < dsockwell> !supersuckurdick
+20:29 < rothen> !superslapanus
+21:48 < rothen> !superslapanus
+--- Day changed Wed Dec 31 2014
+04:40 < RothenPi> !superslapanus
+05:01 < what> !superslapanus
+05:09 < RothenPi> !superslapanusv2 what 
+05:49 < what> !superslapanusV2 RothenPi 
+06:36 < rothen> !superslapanus
+20:26 < say> !supersuckurdick 
+20:38 < say> !supersuckurdick
+23:17 <@Weazzy> !supersuckurdick The_Real_Batman 
+23:23 <@Weazzy> !supersuckurdick The_Real_Batman 
+23:24 < haitani> !superpoisonshits rachel
+23:41 < sunnid> !superslapuranus Weazzy 
+23:42 < sunnid> !superslapaniggasanus Weazzy 
+23:48 < haitani> !superslapaniggasanus
+23:49 < haitani> !superslapaniggasanus
+23:49 < haitani> !superslapaniggasanus
+--- Day changed Thu Jan 01 2015
+00:20 < haitani> !superslapaniggasanus
+00:31 <@Weazzy> !supersuckurdick The_Real_Batman 
+01:09 <@Weazzy> !supersuckrudick
+01:09 <@Weazzy> !supersuckurdick
+01:43 <@Weazzy> !supersuckurdick
+06:49 < RothenPi> !superslapanus Sleepy|Phone 
+--- Day changed Fri Jan 02 2015
+09:12 < say> !supersuckurdick 
+09:15 < lq> !superslapanus
+12:15 < olmec_> !superdicksuck
+--- Day changed Sat Jan 03 2015
+13:40 < sayso> !super nope too lazy
+16:10 < RothenPi> !superslapanus Rossthefox 
+17:56 < say> !supersuckurdick
+18:44 < RothenPi> !superslapanus
+--- Day changed Sun Jan 04 2015
+--- Day changed Mon Jan 05 2015
+18:02 < rothen> !superslapanus
+--- Day changed Tue Jan 06 2015
+15:34 < say> !supersuckurdick Uncomfortable_
+18:59 < say> !supersuckurdick Uncomfortable_ 
+19:22 < tani> !superslapaniggasanus
+--- Day changed Wed Jan 07 2015
+10:53 < sayso> !supersuckurdick rachel 
+10:59 < olmec_> !supersuckurdick olmec
+15:46 < sayso> !supersuckurdick Uncomfortable_ 
+17:42 < say> !superslapanus
+17:50 < RothenPi> !superslapanus emilypi 
+22:00 < RothenPi> !superslapanus
+22:55 < RothenPi> !superslapaniggasanus
+--- Day changed Thu Jan 08 2015
+--- Day changed Fri Jan 09 2015
+04:15 < Rothen> !superslapanus
+05:16 < Rothen> !superslapanus
+05:31 < Rothen> !superslapanus
+12:39 < Rothen> !superslapanus olmec_ 
+18:07 < Rothen> !superslapanus
+18:07 <%fishy> !superslapanus
+19:52 < Rothen> !superslapanusv2
+23:23 < Weazzy> !supersuckurdick rachel 
+23:32 < Weazzy> !supersuckurdick rachel
+--- Day changed Sat Jan 10 2015
+00:28 <@Weazzy> !supersuckurdick
+00:36 <@Weazzy> !supersuckurdick
+02:17 <@Weazzy> !supersuckurdick
+08:45 < sayso> !supersuckurdick Anthrouser 
+21:30 < sayitsnot> !superslapanus
+--- Day changed Sun Jan 11 2015
+13:58 < roland> !superpoisonshits
+18:31 < say> !superslapanus
+--- Day changed Mon Jan 12 2015
+--- Day changed Tue Jan 13 2015
+05:10 < Rothen> !superslapanus
+06:03 < Rothen> !superslapanus
+12:20 < Rothen> !superslapanus
+20:15 <@Weazzy> !supersuckurdick
+20:31 < Rothen> !superslapanus 
+22:24 <+dsockwell> !superslapanus rachel 
+23:05 <+djerkwell> rachel: can we has !superjuiceanus
+--- Day changed Wed Jan 14 2015
+00:19 < djerkwell> !superslapaniggasanus rachel
+03:59 < Rothen> !superslapanus
+17:12 < say> !supersuckurdick Muhammad 
+17:55 < Rothen> !superslapanusv2
+17:55 <%fishy> !superslapanusv2
+19:12 < djerkwell> !superslapanus
+22:35 < say> !supersuckurdick doge-of-fuck 
+--- Day changed Thu Jan 15 2015
+03:39 < Rothen> !superslapanusv2
+14:41 < Rothen> !superslapanus
+15:50 < say> !superslapurdick
+16:10 < say> !superslapanus
+18:45 <+dsockwell> !supersuckaniggasdick denice
+18:53 < say> !superslapanus
+--- Day changed Fri Jan 16 2015
