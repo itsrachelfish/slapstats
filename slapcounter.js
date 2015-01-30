@@ -4,6 +4,9 @@ fs.readFile('./slaplog.txt', {encoding: 'ascii'}, function(error, data)
 {
     if (error) throw error;
 
+    // Statistics object
+    var stats = {};
+
     // Split data into individual lines
     var events = data.toString().split("\n");
 
@@ -22,12 +25,21 @@ fs.readFile('./slaplog.txt', {encoding: 'ascii'}, function(error, data)
 
         if(day)
         {
-            console.log("Day:", day[1]);
+            stats.currentDay = day[1];
+            stats[day[1]] = [];
         }
 
         if(slap)
         {
-            console.log("Slap:", slap[1]);
+            // Only log stats if a day has been found
+            if(stats.currentDay)
+            {
+                // Split slap data so we only get the command, not targets
+                var command = slap[1].split(' ');
+                stats[stats.currentDay].push(command[0]);
+            }
         }
     }
+
+    console.log(stats);
 });
