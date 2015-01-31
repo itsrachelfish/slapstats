@@ -1,7 +1,24 @@
 // Function to ensure an array of arrays are all the same length
 function pad_array(array, length)
 {
+    // Loop through array
+    $.each(array, function(index, children)
+    {
+        if(children.length != length)
+        {
+            // Loop through the difference between the required length
+            for(var i = 0, l = length - children.length; i < l; i++)
+            {
+                children.push(0);
+            }
 
+            // Save new array to the original value
+            array[index] = children;
+        }
+    });
+
+    // Return formatted array
+    return array;
 }
 
 $.getJSON('slapstats.json', function(stats)
@@ -15,8 +32,15 @@ $.getJSON('slapstats.json', function(stats)
         // Only pay attention to properties containing arrays of data
         if(Array.isArray(data))
         {
+            // Format date
+            var date = new Date(key);
+
+            var year = date.getUTCFullYear();
+            var month = date.getUTCMonth() + 1; //months from 1-12
+            var day = date.getUTCDate();
+            
             // Create a new row with this date as the first value
-            var row = [key];
+            var row = [year+'-'+month+'-'+day];
             var commands = {};
             
             $.each(data, function(commandKey, command)
@@ -56,10 +80,13 @@ $.getJSON('slapstats.json', function(stats)
         }
     });
 
-    console.log(rows);
-
     // Set list of all columns as the first row in our dataset
     rows.unshift(columns);
+
+    rows = pad_array(rows, columns.length);
+
+    console.log(rows);
+
 
     var options =
     {
@@ -67,21 +94,8 @@ $.getJSON('slapstats.json', function(stats)
         data:
         {
             x: 'x',
-            rows:
-            [
-                ['x', '!slapanus', '!superslapanus', '!example'],
-                ['2015-1-1', 5, 2],
-                ['2015-1-2', 7, 3],
-                ['2015-1-3', 2, 2, 1],
-                ['2015-1-4', 1, 6, 2],
-            ],
-
-            types:
-            {
-                '!slapanus': 'area-spline',
-                '!superslapanus': 'area-spline',
-                '!example': 'area-spline'
-            }
+            rows: rows,
+            type: 'area-spline'
         },
 
         axis: {
