@@ -41,7 +41,7 @@ fs.readFile('./slaplog.txt', {encoding: 'ascii'}, function(error, data)
         }
     }
 
-    fs.writeFile("./slapstats.json", JSON.stringify(stats), function(error)
+    fs.writeFile("./static/slapstats.json", JSON.stringify(stats), function(error)
     {
         if(error) throw error;
         console.log("Slap stats saved!");
