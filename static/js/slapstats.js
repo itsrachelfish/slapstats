@@ -70,9 +70,6 @@ function getTopSlappers(stats)
         });
     });
 
-    console.log(stats.users.length, topUsers.length);
-    console.log(stats.users, topUsers);
-
     stats.users = topUsers;
     return getAllSlappers(stats);
 }
@@ -119,15 +116,31 @@ function generateChart(rows)
             type: 'area-spline'
         },
 
-        axis: {
-            x: {
+        axis:
+        {
+            x:
+            {
                 type: 'timeseries',
-                tick: {
+                tick:
+                {
                     format: '%Y-%m-%d'
                 }
             }
+        },
+
+        tooltip:
+        {
+            format:
+            {
+                // Only display values > 0 in tooltips
+                value: function (value, ratio, id)
+                {
+                    if(value)
+                        return value;
+                }
+            }
         }
-    }
+    };
 
     var chart = c3.generate(options);
 }
