@@ -14,8 +14,8 @@ fs.readFile('./slaplog.txt', {encoding: 'ascii'}, function(error, data)
     {
         var pattern =
         {
-            day: /--- Day changed [a-z]{3} (.*)/i,
-            slap: /.*> (.*)/i
+            day: /^--- Day changed [a-z]{3} (.*)/i,
+            slap: /^(?:[0-9:]+)? ?<([^>]+)> (.*)/i
         }
 
         var line = events[i];
@@ -34,9 +34,15 @@ fs.readFile('./slaplog.txt', {encoding: 'ascii'}, function(error, data)
             // Only log stats if a day has been found
             if(stats.currentDay)
             {
-                // Split slap data so we only get the command, not targets
-                var command = slap[1].split(' ');
-                stats[stats.currentDay].push(command[0]);
+                // Make sure we only match !commands
+                if(slap[2].charAt(0) != "!")
+                {
+                    var user = slap[1].trim();
+
+                    // Split matched slap string so we only get the command, not targets
+                    var command = slap[2].split(' ');
+                    stats[stats.currentDay].push({user: user, command: command[0]});
+                }
             }
         }
     }
