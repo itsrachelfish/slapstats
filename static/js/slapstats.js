@@ -41,7 +41,43 @@ function getAllSlaps(stats)
     return rows;
 }
 
-function getSlappers(stats)
+function getTopSlappers(stats)
+{
+    // Clone the stats we recieved so the original doesn't get modified
+    stats = JSON.parse(JSON.stringify(stats));
+
+    var users = {};
+    var topUsers = [];
+    var threshold = 10;
+
+    // Loop through all days to determine total slap counts
+    $.each(stats.days, function(dayIndex, current)
+    {
+        // Loop through current slap users
+        $.each(current.users, function(user, slaps)
+        {
+            // Did this user already reach the threshold?
+            if(topUsers.indexOf(user) > -1) return;
+
+            if(users[user])
+                users[user] += slaps;
+            else
+                users[user] = slaps;
+
+            if(users[user] > threshold)
+                topUsers.push(user);
+                
+        });
+    });
+
+    console.log(stats.users.length, topUsers.length);
+    console.log(stats.users, topUsers);
+
+    stats.users = topUsers;
+    return getAllSlappers(stats);
+}
+
+function getAllSlappers(stats)
 {
     var rows = [];
 
@@ -58,7 +94,7 @@ function getSlappers(stats)
         // Loop through all slap users
         $.each(stats.users, function(slapIndex, user)
         {
-            // Look to see if this slap happened on this day
+            // Look to see if this user slapped on this day
             if(current.users[user])
                 row.push(current.users[user])
             else
@@ -111,11 +147,18 @@ $(document).ready(function()
         generateChart(rows);
     });
 
-    $('body').on('click', '.show-slappers', function()
+    $('body').on('click', '.show-all-slappers', function()
     {
-        var rows = getSlappers(slapstats);
+        var rows = getAllSlappers(slapstats);
         generateChart(rows);
     });
+
+    $('body').on('click', '.show-top-slappers', function()
+    {
+        var rows = getTopSlappers(slapstats);
+        generateChart(rows);
+    });
+
 
     // Load slapstats json
     $.getJSON('slapstats.json', function(days)

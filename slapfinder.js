@@ -15,7 +15,7 @@ fs.readFile('./slaplog.txt', {encoding: 'ascii'}, function(error, data)
         var pattern =
         {
             day: /^--- Day changed [a-z]{3} (.*)/i,
-            slap: /^(?:[0-9:]+)? ?<([^>]+)> (.*)/i
+            slap: /^(?:[0-9:]+)? ?<.([^>_]+)_*> (.*)/i
         }
 
         var line = events[i];
@@ -44,7 +44,7 @@ fs.readFile('./slaplog.txt', {encoding: 'ascii'}, function(error, data)
                 // Make sure we only match !commands
                 if(slap[2].charAt(0) == "!")
                 {
-                    var user = slap[1].trim();
+                    var user = slap[1].toLowerCase().trim();
 
                     // Split matched slap string so we only get the command, not targets
                     var command = slap[2].split(' ');
