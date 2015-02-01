@@ -41,11 +41,34 @@ function getAllSlaps(stats)
     return rows;
 }
 
-function getSlappers()
+function getSlappers(stats)
 {
-    // Clone the stats we recieved so the original doesn't get modified
-    stats = JSON.parse(JSON.stringify(stats));
+    var rows = [];
 
+    // Set list of all slap types as the first row in our dataset
+    // Concatenated to 'x' to define our axis
+    rows.unshift(['x'].concat(stats.users));
+
+    // Loop through statistics to generate graph columns
+    $.each(stats.days, function(dayIndex, current)
+    {
+        // Create a new row with this day as the first value
+        var row = [current.day];
+
+        // Loop through all slap users
+        $.each(stats.users, function(slapIndex, user)
+        {
+            // Look to see if this slap happened on this day
+            if(current.users[user])
+                row.push(current.users[user])
+            else
+                row.push(0);
+        });
+
+        rows.push(row);
+    });
+
+    return rows;
 }
 
 function generateChart(rows)
@@ -90,7 +113,7 @@ $(document).ready(function()
 
     $('body').on('click', '.show-slappers', function()
     {
-        var rows = [];
+        var rows = getSlappers(slapstats);
         generateChart(rows);
     });
 
