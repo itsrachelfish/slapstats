@@ -25,8 +25,15 @@ fs.readFile('./slaplog.txt', {encoding: 'ascii'}, function(error, data)
 
         if(day)
         {
-            stats.currentDay = day[1];
-            stats[day[1]] = [];
+            // Format date
+            var date = new Date(day[1]);
+
+            var year = date.getUTCFullYear();
+            var month = date.getUTCMonth() + 1; //months from 1-12
+            var day = date.getUTCDate();
+            
+            stats.currentDay = year+'-'+month+'-'+day;
+            stats[stats.currentDay] = [];
         }
 
         if(slap)
@@ -35,13 +42,13 @@ fs.readFile('./slaplog.txt', {encoding: 'ascii'}, function(error, data)
             if(stats.currentDay)
             {
                 // Make sure we only match !commands
-                if(slap[2].charAt(0) != "!")
+                if(slap[2].charAt(0) == "!")
                 {
                     var user = slap[1].trim();
 
                     // Split matched slap string so we only get the command, not targets
                     var command = slap[2].split(' ');
-                    stats[stats.currentDay].push({user: user, command: command[0]});
+                    stats[stats.currentDay].push({user: user, command: command[0].toLowerCase()});
                 }
             }
         }

@@ -1,5 +1,5 @@
 // Function to ensure an array of arrays are all the same length
-function pad_array(array, length)
+function padArray(array, length)
 {
     // Loop through array
     $.each(array, function(index, children)
@@ -21,26 +21,25 @@ function pad_array(array, length)
     return array;
 }
 
-$.getJSON('slapstats.json', function(stats)
+$.getJSON('slapstats.json', function(days)
 {
     var columns = ['x'];
     var rows = [];
 
+    // Send the stats to the slap counter before generating graphs
+    stats = slapCounter(days);
+
+    console.log(stats);
+
+/*
     // Loop through statistics to generate graph columns
     $.each(stats, function(key, data)
     {
         // Only pay attention to properties containing arrays of data
         if(Array.isArray(data))
         {
-            // Format date
-            var date = new Date(key);
-
-            var year = date.getUTCFullYear();
-            var month = date.getUTCMonth() + 1; //months from 1-12
-            var day = date.getUTCDate();
-            
             // Create a new row with this date as the first value
-            var row = [year+'-'+month+'-'+day];
+            var row = [key];
             var commands = {};
             
             $.each(data, function(commandKey, command)
@@ -57,7 +56,7 @@ $.getJSON('slapstats.json', function(stats)
                 else
                     commands[command] = 1;
             });
-
+            
             // Loop through all columns and to save final row values
             $.each(columns, function(columnKey, column)
             {
@@ -83,10 +82,10 @@ $.getJSON('slapstats.json', function(stats)
     // Set list of all columns as the first row in our dataset
     rows.unshift(columns);
 
-    rows = pad_array(rows, columns.length);
+    rows = padArray(rows, columns.length);
 
     console.log(rows);
-
+*/
 
     var options =
     {
