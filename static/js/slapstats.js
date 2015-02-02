@@ -86,20 +86,26 @@ function getAllSlappers(stats)
 
     // Set list of all slap types as the first row in our dataset
     // Concatenated to 'x' to define our axis
-    rows.unshift(['x'].concat(stats.users));
+    // And total to define the computed total of each day
+    rows.unshift(['x', 'Total'].concat(stats.users));
 
     // Loop through statistics to generate graph columns
     $.each(stats.days, function(dayIndex, current)
     {
-        // Create a new row with this day as the first value
-        var row = [current.day];
+        // Create a new row with this day as the first value and the total as 0
+        var row = [current.day, 0];
 
         // Loop through all slap users
         $.each(stats.users, function(slapIndex, user)
         {
             // Look to see if this user slapped on this day
             if(current.users[user])
+            {
                 row.push(current.users[user])
+
+                // Update the total
+                row[1] += current.users[user];
+            }
             else
                 row.push(0);
         });
