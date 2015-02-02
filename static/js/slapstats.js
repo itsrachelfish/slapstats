@@ -17,20 +17,26 @@ function getAllSlaps(stats)
 
     // Set list of all slap types as the first row in our dataset
     // Concatenated to 'x' to define our axis
-    rows.unshift(['x'].concat(stats.slaps));
+    // And total to define the computed total of each day
+    rows.unshift(['x', 'Total'].concat(stats.slaps));
 
     // Loop through statistics to generate graph columns
     $.each(stats.days, function(dayIndex, current)
     {
-        // Create a new row with this day as the first value
-        var row = [current.day];
+        // Create a new row with this day as the first value and the total as 0
+        var row = [current.day, 0];
 
         // Loop through all slap types
         $.each(stats.slaps, function(slapIndex, slap)
         {
             // Look to see if this slap happened on this day
             if(current.slaps[slap])
+            {
                 row.push(current.slaps[slap])
+
+                // Update the total
+                row[1] += current.slaps[slap];
+            }
             else
                 row.push(0);
         });
@@ -113,7 +119,17 @@ function generateChart(rows)
         {
             x: 'x',
             rows: rows,
-            type: 'area-spline'
+            type: 'area-spline',
+
+            colors:
+            {
+                Total: '#ccc'
+            },
+
+            types:
+            {
+                Total: 'spline'
+            }
         },
 
         axis:
