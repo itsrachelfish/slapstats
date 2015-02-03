@@ -164,36 +164,103 @@ function generateChart(rows)
         }
     };
 
-    var chart = c3.generate(options);
+    return c3.generate(options);
+}
+
+function getSlapTotals(stats)
+{    
+    var slaps = _.pairs(stats.total.slaps);
+    var users = _.pairs(stats.total.users);
+
+    slaps.sort(function(a, b) {return a[1] - b[1]}).reverse();
+    users.sort(function(a, b) {return a[1] - b[1]}).reverse();
+
+    // Slice off top 10 of each
+    slaps = slaps.slice(0, 10);
+    users = users.slice(0, 10);
+
+    // Label the x-axis
+    slaps.unshift(['x', 'Total Slaps']);
+    users.unshift(['x', 'Top Slappers']);
+
+    return {slaps: slaps, users: users};
+}
+
+function generateBarChart(id, columns)
+{    
+    var options =
+    {
+        bindto: id,
+        data:
+        {
+            x: 'x',
+            columns: columns,
+            type: 'bar',
+        },
+
+        axis:
+        {
+            x:
+            {
+                type: 'category' // this needed to load string x value
+            }
+        }
+    };
+
+    return c3.generate(options);
 }
 
 // Event bindings
 $(document).ready(function()
 {
+    function lineChart()
+    {
+        $('.halfchart').hide();
+        $('.fullchart').show();
+    }
+
+    function barChart()
+    {
+        $('.fullchart').hide();
+        $('.halfchart').show();
+    }
+    
     $('body').on('click', '.show-valid', function()
     {
+        lineChart();
         var rows = getValidSlaps(slapstats);
         generateChart(rows);
     });
 
     $('body').on('click', '.show-all', function()
     {
+        lineChart();
         var rows = getAllSlaps(slapstats);
         generateChart(rows);
     });
 
     $('body').on('click', '.show-all-slappers', function()
     {
+        lineChart();
         var rows = getAllSlappers(slapstats);
         generateChart(rows);
     });
 
     $('body').on('click', '.show-top-slappers', function()
     {
+        lineChart();
         var rows = getTopSlappers(slapstats);
         generateChart(rows);
     });
 
+    $('body').on('click', '.show-totals', function()
+    {
+        barChart();
+        var rows = getSlapTotals(slapstats);
+
+        generateBarChart('#chart-1', rows.slaps);
+        generateBarChart('#chart-2', rows.users);        
+    });
 
     // Load slapstats json
     $.getJSON('slapstats.json', function(days)
