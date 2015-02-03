@@ -14,6 +14,9 @@
         <script src="bower_components/d3/d3.min.js" charset="utf-8"></script>
         <script src="bower_components/c3/c3.min.js"></script>
 
+        <!-- Load underscore -->
+        <script src="bower_components/underscore/underscore-min.js"></script>
+
         <!-- General css -->
         <link href="css/slapstats.css" rel="stylesheet">
     </head>
@@ -21,12 +24,16 @@
     <body>
         <p>Hello world! This is slapstats.</p>
 
-        <div id="chart"></div>
+        <div id="chart" class="fullchart"></div>
+        <div id="chart-1" class="halfchart">
+        <div id="chart-2" class="halfchart">
 
         <input class="show-valid" type="button" value="Only Show Valid Slaps">
         <input class="show-all" type="button" value="Show All Slaps">
         <input class="show-top-slappers" type="button" value="Show Top Slappers">
         <input class="show-all-slappers" type="button" value="Show All Slappers">
+        <input class="show-totals" type="button" value="Show Totals">
+        
 
         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
         <script src="js/slapcounter.js"></script>
