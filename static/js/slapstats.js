@@ -6,7 +6,7 @@ function getValidSlaps(stats)
     stats = JSON.parse(JSON.stringify(stats));
     
     // Only display valid slaps
-    stats.slaps = ['!slapanus', '!superslapanus', '!superslapanusv2', '!supersuckurdick', '!superslapaniggasanus'];
+    stats.slaps = ['!slapanus', '!superslapanus', '!superslapanusv2', '!supersuckurdick', '!superslapaniggasanus', '!superslapsiesta'];
 
     return getAllSlaps(stats);
 }
